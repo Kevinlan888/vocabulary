@@ -1,0 +1,32 @@
+{
+  "word": "incline",
+  "pronunciation": "/ɪnˈklaɪn/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A slope; a surface or path set at an angle.",
+      "exampleSentence": "The hikers struggled up the steep incline.",
+      "collocations": ["steep incline", "gentle incline"],
+      "synonyms": ["slope", "gradient"],
+      "antonyms": ["decline"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "incline",
+        "past": "inclined",
+        "pastParticiple": "inclined",
+        "presentParticiple": "inclining",
+        "thirdPersonSingular": "inclines"
+      },
+      "definition": "To slope or lean; to be disposed toward a particular action, opinion, or feeling.",
+      "exampleSentence": "She was inclined to accept the offer after hearing the details.",
+      "collocations": ["incline to", "be inclined to", "incline towards"],
+      "synonyms": ["lean", "tend"],
+      "antonyms": ["decline"]
+    }
+  ],
+  "wordFamily": ["inclined", "inclination", "inclining"]
+}

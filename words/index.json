@@ -35,6 +35,13 @@
     "file": "hazard.json"
   },
   {
+    "word": "incline",
+    "pronunciation": "/ɪnˈklaɪn/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "incline.json"
+  },
+  {
     "word": "interest",
     "pronunciation": "/ˈɪntrəst/",
     "cefrLevel": "A2",
@@ -96,6 +103,13 @@
     "cefrLevel": "C2",
     "partOfSpeech": ["noun"],
     "file": "tyre-lever.json"
+  },
+  {
+    "word": "cline",
+    "pronunciation": "/klaɪn/",
+    "cefrLevel": "C2",
+    "partOfSpeech": ["noun"],
+    "file": "cline.json"
   },
   {
     "word": "undergo",

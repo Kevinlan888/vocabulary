@@ -1,0 +1,16 @@
+{
+  "word": "cline",
+  "pronunciation": "/klaɪn/",
+  "cefrLevel": "C2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A gradual change in a trait (such as morphology or gene frequency) across a geographical area or environmental gradient.",
+      "exampleSentence": "The study found a cline in shell thickness from the coast to the inland islands.",
+      "collocations": ["genetic cline", "ecological cline", "cline of variation"],
+      "synonyms": ["gradient"],
+      "antonyms": ["discontinuity", "abrupt boundary"]
+    }
+  ],
+  "wordFamily": ["clinal", "clinally"]
+}
