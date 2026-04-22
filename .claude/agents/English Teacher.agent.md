@@ -96,6 +96,8 @@ When the user queries or defines a new word:
 - 同义词（Synonyms）
 - 反义词（Antonyms）
 
+4. commit the updated vocaburary.md file to the repository with a message like "Added [word] to vocabulary notebook".
+
 ### Example Markdown Entry
 
 ```
