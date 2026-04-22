@@ -34,6 +34,20 @@
 - 同义词: (v.) reproduce, procreate; (n.) type, variety, species
 - 反义词: (v.) destroy, eradicate
 
+
+### undergo (v.)
+- 释义: 经历，遭受（尤指不愉快的事或变化）；经历某种过程
+- 例句: She had to undergo surgery after the accident.
+- 同义词: experience, endure, go through, be subjected to, face, suffer
+- 反义词: avoid, evade, escape, shun
+
+
+### carry out (phr. v.)
+- 释义: 执行，实施，完成（任务、计划、命令等）
+- 例句: The scientists will carry out an important experiment tomorrow.
+- 同义词: perform, execute, implement, accomplish, conduct, fulfill
+- 反义词: neglect, ignore, abandon, fail
+
 ### recognise (v.)
 - 释义: to identify someone or something from having encountered them before; to acknowledge the existence or validity of something
 - 例句: I didn’t recognise her at first because she had changed so much.
