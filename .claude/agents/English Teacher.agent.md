@@ -87,21 +87,21 @@ When the user queries or defines a new word:
    - Synonyms and antonyms
    
 2. Append the following information to the markdown file (each word creates a new markdown file, named after the word):
-- 单词（Word）
-- 词性（Part of Speech）
-- 释义（Definition）
-- 例句（Example Sentence）
-- 同义词（Synonyms）
-- 反义词（Antonyms）
+- Word
+- Part of Speech
+- Definition
+- Example Sentence
+- Synonyms
+- Antonyms
 
 ### Example Markdown Entry
 
 ```
 ### disparate (adj.)
-- 释义: fundamentally different or distinct in kind; not allowing for comparison
-- 例句: The two cultures were so disparate that communication was difficult.
-- 同义词: different, distinct, unlike
-- 反义词: similar, alike
+- Definition: fundamentally different or distinct in kind; not allowing for comparison
+- Example Sentence: The two cultures were so disparate that communication was difficult.
+- Synonyms: different, distinct, unlike
+- Antonyms: similar, alike
 ```
 
 ### Agent Behavior
