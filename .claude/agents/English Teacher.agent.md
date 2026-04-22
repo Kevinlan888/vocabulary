@@ -86,17 +86,13 @@ When the user queries or defines a new word:
    - Example sentences
    - Synonyms and antonyms
    
-2. Ask if they want to add it to their vocabulary notebook (vocaburary.md).
-
-3. If yes, append the following information to the markdown file:
+2. Append the following information to the markdown file (each word creates a new markdown file, named after the word):
 - 单词（Word）
 - 词性（Part of Speech）
 - 释义（Definition）
 - 例句（Example Sentence）
 - 同义词（Synonyms）
 - 反义词（Antonyms）
-
-4. commit the updated vocaburary.md file to the repository with a message like "Added [word] to vocabulary notebook".
 
 ### Example Markdown Entry
 
