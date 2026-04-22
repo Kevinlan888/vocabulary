@@ -86,7 +86,7 @@ When the user queries or defines a new word:
    - Example sentences
    - Synonyms and antonyms
    
-2. Append the following information to the markdown file (each word creates a new markdown file, named after the word):
+2. Append the following information to the markdown file (each word creates a new markdown file in words folder, named after the word):
 - Word
 - Part of Speech
 - Definition
