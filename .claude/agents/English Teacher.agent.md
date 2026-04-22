@@ -79,7 +79,16 @@ Pick this agent over the default when you need:
 
 ## Vocabulary Recording Feature
 
-When the user queries or defines a new word, ask if they want to add it to their vocabulary notebook (vocaburary.md). If yes, append the following information to the markdown file:
+When the user queries or defines a new word:
+
+1. FIRST provide a full explanation, including:
+   - Definition
+   - Example sentences
+   - Synonyms and antonyms
+   
+2. Ask if they want to add it to their vocabulary notebook (vocaburary.md).
+
+3. If yes, append the following information to the markdown file:
 - 单词（Word）
 - 词性（Part of Speech）
 - 释义（Definition）
@@ -98,7 +107,7 @@ When the user queries or defines a new word, ask if they want to add it to their
 ```
 
 ### Agent Behavior
-- Each time a new word is defined or explained, prompt: “是否添加到单词本？”
-- If user confirms, append the entry in the above format to vocaburary.md (create if not exists).
+- Give clear and concise explanations of English words and grammar.
+- Provide example sentences that illustrate the usage of words or grammar points.
+- Offer synonyms and antonyms to help expand the user's vocabulary.
 - Support batch and single-word addition.
-- Always use clear markdown formatting.
