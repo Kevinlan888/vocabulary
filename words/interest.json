@@ -1,0 +1,32 @@
+{
+  "word": "interest",
+  "pronunciation": "/ˈɪntrəst/",
+  "cefrLevel": "A2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a feeling of curiosity or concern about something; the quality that attracts attention; money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt",
+      "exampleSentence": "She has a strong interest in art and history.",
+      "collocations": ["show interest in", "lose interest", "strong interest"],
+      "synonyms": ["curiosity", "attention", "concern", "fascination"],
+      "antonyms": ["indifference", "boredom", "disinterest", "apathy"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "interest",
+        "past": "interested",
+        "pastParticiple": "interested",
+        "presentParticiple": "interesting",
+        "thirdPersonSingular": "interests"
+      },
+      "definition": "to attract or hold the attention or curiosity of someone",
+      "exampleSentence": "The story will interest anyone who enjoys mysteries.",
+      "collocations": ["interest someone in", "may interest you"],
+      "synonyms": ["attract", "captivate", "fascinate"],
+      "antonyms": ["bore", "repel"]
+    }
+  ],
+  "wordFamily": ["interested", "interesting", "interestingly", "uninteresting"]
+}

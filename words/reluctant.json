@@ -1,0 +1,16 @@
+{
+  "word": "reluctant",
+  "pronunciation": "/rɪˈlʌktənt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "unwilling and hesitant; not eager to do something",
+      "exampleSentence": "He was reluctant to speak in front of the large audience.",
+      "collocations": ["reluctant to", "reluctant agreement", "reluctant participant"],
+      "synonyms": ["unwilling", "hesitant", "resistant", "disinclined"],
+      "antonyms": ["willing", "eager", "enthusiastic", "ready"]
+    }
+  ],
+  "wordFamily": ["reluctance", "reluctantly"]
+}

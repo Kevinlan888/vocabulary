@@ -1,0 +1,16 @@
+{
+  "word": "disparate",
+  "pronunciation": "/ˈdɪspərət/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "fundamentally different or distinct in kind; not allowing for comparison",
+      "exampleSentence": "The two cultures were so disparate that communication was difficult.",
+      "collocations": ["disparate groups", "disparate elements", "widely disparate"],
+      "synonyms": ["different", "distinct", "unlike"],
+      "antonyms": ["similar", "alike"]
+    }
+  ],
+  "wordFamily": ["disparately", "disparity"]
+}

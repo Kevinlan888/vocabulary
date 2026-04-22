@@ -1,0 +1,24 @@
+{
+  "word": "undergo",
+  "pronunciation": "/ˌʌndəˈɡəʊ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "undergo",
+        "past": "underwent",
+        "pastParticiple": "undergone",
+        "presentParticiple": "undergoing",
+        "thirdPersonSingular": "undergoes"
+      },
+      "definition": "to experience or be subjected to something, typically something unpleasant or a process",
+      "exampleSentence": "She had to undergo surgery after the accident.",
+      "collocations": ["undergo surgery", "undergo treatment", "undergo changes"],
+      "synonyms": ["experience", "endure", "go through", "be subjected to", "suffer"],
+      "antonyms": ["avoid", "evade", "escape", "shun"]
+    }
+  ],
+  "wordFamily": []
+}

@@ -1,0 +1,32 @@
+{
+  "word": "puncture",
+  "pronunciation": "/ˈpʌŋktʃə/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "puncture",
+        "past": "punctured",
+        "pastParticiple": "punctured",
+        "presentParticiple": "puncturing",
+        "thirdPersonSingular": "punctures"
+      },
+      "definition": "to make a small hole in something",
+      "exampleSentence": "Be careful not to puncture the tire with that nail.",
+      "collocations": ["puncture a tyre", "puncture the skin", "accidentally puncture"],
+      "synonyms": ["pierce", "perforate", "penetrate", "prick"],
+      "antonyms": ["seal", "close", "mend", "repair"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a small hole made by a sharp object",
+      "exampleSentence": "The bicycle had a puncture and needed to be repaired.",
+      "collocations": ["get a puncture", "repair a puncture", "flat puncture"],
+      "synonyms": ["hole", "perforation", "prick"],
+      "antonyms": ["seal", "patch"]
+    }
+  ],
+  "wordFamily": ["punctured", "puncturing"]
+}

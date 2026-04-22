@@ -1,0 +1,32 @@
+{
+  "word": "breed",
+  "pronunciation": "/briːd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "breed",
+        "past": "bred",
+        "pastParticiple": "bred",
+        "presentParticiple": "breeding",
+        "thirdPersonSingular": "breeds"
+      },
+      "definition": "to produce offspring, usually by animals",
+      "exampleSentence": "Rabbits breed rapidly.",
+      "collocations": ["breed rapidly", "breed successfully", "captive breeding"],
+      "synonyms": ["reproduce", "procreate"],
+      "antonyms": ["destroy", "eradicate"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a particular type or variety of animal or plant",
+      "exampleSentence": "The Labrador is a popular breed of dog.",
+      "collocations": ["rare breed", "pedigree breed", "breed of dog"],
+      "synonyms": ["type", "variety", "species"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["breeder", "breeding", "crossbreed", "purebred"]
+}

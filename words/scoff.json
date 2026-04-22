@@ -1,0 +1,24 @@
+{
+  "word": "scoff",
+  "pronunciation": "/skɒf/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "scoff",
+        "past": "scoffed",
+        "pastParticiple": "scoffed",
+        "presentParticiple": "scoffing",
+        "thirdPersonSingular": "scoffs"
+      },
+      "definition": "to speak to someone or about something in a scornfully derisive or mocking way",
+      "exampleSentence": "The critics scoffed at his new novel.",
+      "collocations": ["scoff at", "scoff at the idea", "openly scoff"],
+      "synonyms": ["mock", "ridicule", "sneer"],
+      "antonyms": ["praise", "admire"]
+    }
+  ],
+  "wordFamily": ["scoffer", "scoffingly"]
+}

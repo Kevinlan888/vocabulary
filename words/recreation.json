@@ -1,0 +1,16 @@
+{
+  "word": "recreation",
+  "pronunciation": "/ˌrekriˈeɪʃn/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "activity done for enjoyment when one is not working; refreshment of strength and spirits after work",
+      "exampleSentence": "After a long week at work, she enjoyed some recreation by hiking in the mountains.",
+      "collocations": ["outdoor recreation", "recreation area", "recreation facilities"],
+      "synonyms": ["leisure", "amusement", "entertainment", "relaxation", "fun"],
+      "antonyms": ["work", "labor", "drudgery", "toil"]
+    }
+  ],
+  "wordFamily": ["recreational", "recreate"]
+}

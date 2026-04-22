@@ -1,0 +1,107 @@
+[
+  {
+    "word": "breed",
+    "pronunciation": "/briːd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "breed.json"
+  },
+  {
+    "word": "campsite",
+    "pronunciation": "/ˈkæmpsaɪt/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun"],
+    "file": "campsite.json"
+  },
+  {
+    "word": "disparate",
+    "pronunciation": "/ˈdɪspərət/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "disparate.json"
+  },
+  {
+    "word": "flinch",
+    "pronunciation": "/flɪntʃ/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb"],
+    "file": "flinch.json"
+  },
+  {
+    "word": "hazard",
+    "pronunciation": "/ˈhæzəd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "hazard.json"
+  },
+  {
+    "word": "interest",
+    "pronunciation": "/ˈɪntrəst/",
+    "cefrLevel": "A2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "interest.json"
+  },
+  {
+    "word": "noting",
+    "pronunciation": "/ˈnəʊtɪŋ/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "noting.json"
+  },
+  {
+    "word": "puncture",
+    "pronunciation": "/ˈpʌŋktʃə/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "puncture.json"
+  },
+  {
+    "word": "recognise",
+    "pronunciation": "/ˈrekəɡnaɪz/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["verb"],
+    "file": "recognise.json"
+  },
+  {
+    "word": "recreation",
+    "pronunciation": "/ˌrekriˈeɪʃn/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "recreation.json"
+  },
+  {
+    "word": "reintroduction",
+    "pronunciation": "/ˌriːɪntrəˈdʌkʃn/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "reintroduction.json"
+  },
+  {
+    "word": "reluctant",
+    "pronunciation": "/rɪˈlʌktənt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "reluctant.json"
+  },
+  {
+    "word": "scoff",
+    "pronunciation": "/skɒf/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb"],
+    "file": "scoff.json"
+  },
+  {
+    "word": "tyre lever",
+    "pronunciation": "/ˈtaɪə ˈliːvə/",
+    "cefrLevel": "C2",
+    "partOfSpeech": ["noun"],
+    "file": "tyre-lever.json"
+  },
+  {
+    "word": "undergo",
+    "pronunciation": "/ˌʌndəˈɡəʊ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "undergo.json"
+  }
+]

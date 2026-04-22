@@ -1,0 +1,24 @@
+{
+  "word": "flinch",
+  "pronunciation": "/flɪntʃ/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "flinch",
+        "past": "flinched",
+        "pastParticiple": "flinched",
+        "presentParticiple": "flinching",
+        "thirdPersonSingular": "flinches"
+      },
+      "definition": "to make a quick, nervous movement as an instinctive reaction to fear, pain, or surprise",
+      "exampleSentence": "He didn't even flinch when the nurse gave him the injection.",
+      "collocations": ["flinch at", "flinch away", "barely flinch"],
+      "synonyms": ["wince", "recoil", "shrink"],
+      "antonyms": ["confront", "face"]
+    }
+  ],
+  "wordFamily": ["flinchingly"]
+}

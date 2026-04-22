@@ -1,0 +1,16 @@
+{
+  "word": "hazard",
+  "pronunciation": "/ˈhæzəd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a danger or risk",
+      "exampleSentence": "Wet floors are a hazard for elderly people.",
+      "collocations": ["health hazard", "fire hazard", "occupational hazard"],
+      "synonyms": ["danger", "risk", "peril", "threat"],
+      "antonyms": ["safety", "security"]
+    }
+  ],
+  "wordFamily": ["hazardous", "hazardously", "hazardousness"]
+}

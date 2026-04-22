@@ -1,0 +1,24 @@
+{
+  "word": "recognise",
+  "pronunciation": "/ˈrekəɡnaɪz/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "recognise",
+        "past": "recognised",
+        "pastParticiple": "recognised",
+        "presentParticiple": "recognising",
+        "thirdPersonSingular": "recognises"
+      },
+      "definition": "to identify someone or something from having encountered them before; to acknowledge the existence or validity of something",
+      "exampleSentence": "I didn't recognise her at first because she had changed so much.",
+      "collocations": ["easily recognise", "recognise the signs", "widely recognised"],
+      "synonyms": ["identify", "acknowledge", "realize", "discern"],
+      "antonyms": ["ignore", "overlook"]
+    }
+  ],
+  "wordFamily": ["recognition", "recognisable", "unrecognisable"]
+}

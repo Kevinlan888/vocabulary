@@ -1,0 +1,16 @@
+{
+  "word": "reintroduction",
+  "pronunciation": "/ˌriːɪntrəˈdʌkʃn/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of putting something back into use or existence after it has not been used or has disappeared",
+      "exampleSentence": "The reintroduction of wolves into the park helped restore the ecosystem.",
+      "collocations": ["reintroduction of", "reintroduction into", "species reintroduction"],
+      "synonyms": ["restoration", "reinstatement", "return"],
+      "antonyms": ["removal", "elimination"]
+    }
+  ],
+  "wordFamily": ["reintroduce", "reintroduced"]
+}

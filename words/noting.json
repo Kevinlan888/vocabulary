@@ -1,0 +1,24 @@
+{
+  "word": "noting",
+  "pronunciation": "/ˈnəʊtɪŋ/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of making a brief written or mental record of something; a remark or observation",
+      "exampleSentence": "His careful noting of the details helped solve the problem.",
+      "collocations": ["careful noting", "worth noting", "noting of"],
+      "synonyms": ["recording", "observing", "remarking", "noticing"],
+      "antonyms": ["ignoring", "overlooking", "disregarding"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "definition": "present participle of 'note': observing or paying attention to something; making a written or mental record",
+      "exampleSentence": "She was noting the changes in the weather as she walked.",
+      "collocations": ["noting the changes", "noting that", "worth noting"],
+      "synonyms": ["recording", "observing", "registering"],
+      "antonyms": ["ignoring", "overlooking"]
+    }
+  ],
+  "wordFamily": ["note", "noted", "notable", "notably", "notation"]
+}

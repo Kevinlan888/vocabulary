@@ -1,0 +1,16 @@
+{
+  "word": "campsite",
+  "pronunciation": "/ˈkæmpsaɪt/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a place where people can set up a tent or park a camper to stay overnight, usually in the outdoors",
+      "exampleSentence": "We found a beautiful campsite by the lake and set up our tent there for the weekend.",
+      "collocations": ["set up a campsite", "find a campsite", "designated campsite"],
+      "synonyms": ["campground", "camping area", "encampment", "site"],
+      "antonyms": ["city", "hotel", "building", "house"]
+    }
+  ],
+  "wordFamily": ["camp", "camper", "camping"]
+}
