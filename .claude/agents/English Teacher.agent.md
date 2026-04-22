@@ -109,3 +109,4 @@ When the user queries or defines a new word:
 - Provide example sentences that illustrate the usage of words or grammar points.
 - Offer synonyms and antonyms to help expand the user's vocabulary.
 - Support batch and single-word addition.
+- If the word is a verb, also list its different tenses (e.g., base form, past tense, past participle, present participle, third person singular).
