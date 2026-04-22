@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulary Cards</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --card-front: #1e2233;
+    --card-back: #252a3a;
+    --text: #e8eaed;
+    --text-dim: #8b8fa3;
+    --accent: #6c8cff;
+    --a2: #4caf50; --b1: #2196f3; --b2: #ff9800; --c1: #f44336; --c2: #9c27b0;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  header {
+    padding: 2rem 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  header p {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+  }
+
+  .stats {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .stats span {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+  }
+
+  .stats strong {
+    color: var(--accent);
+  }
+
+  .filters {
+    padding: 1rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    background: var(--surface);
+    border: 1px solid transparent;
+    color: var(--text-dim);
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+
+  .filter-btn:hover { color: var(--text); border-color: #333; }
+  .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  .search-box {
+    padding: 0 2rem;
+    max-width: 1200px;
+    margin: 0 auto 1rem;
+  }
+
+  .search-box input {
+    width: 100%;
+    max-width: 400px;
+    background: var(--surface);
+    border: 1px solid #2a2d3a;
+    color: var(--text);
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    outline: none;
+    transition: border 0.2s;
+  }
+
+  .search-box input:focus { border-color: var(--accent); }
+  .search-box input::placeholder { color: var(--text-dim); }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+    padding: 0 2rem 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .card-container {
+    perspective: 800px;
+    height: 240px;
+    cursor: pointer;
+  }
+
+  .card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+  }
+
+  .card.flipped { transform: rotateY(180deg); }
+
+  .card-face {
+    position: absolute;
+    inset: 0;
+    backface-visibility: hidden;
+    border-radius: 12px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .card-front {
+    background: var(--card-front);
+    border: 1px solid #2a2d3a;
+  }
+
+  .card-back {
+    background: var(--card-back);
+    border: 1px solid #2a2d3a;
+    transform: rotateY(180deg);
+  }
+
+  .cefr-badge {
+    display: inline-block;
+    padding: 0.15rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #fff;
+    width: fit-content;
+    margin-bottom: 0.8rem;
+  }
+
+  .cefr-a1 { background: #4caf50; }
+  .cefr-a2 { background: #66bb6a; }
+  .cefr-b1 { background: #2196f3; }
+  .cefr-b2 { background: #ff9800; }
+  .cefr-c1 { background: #f44336; }
+  .cefr-c2 { background: #9c27b0; }
+
+  .word-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+    letter-spacing: -0.02em;
+  }
+
+  .pronunciation {
+    color: var(--text-dim);
+    font-size: 0.9rem;
+    margin-bottom: 0.6rem;
+  }
+
+  .pos-tags {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    margin-top: auto;
+  }
+
+  .pos-tag {
+    background: rgba(108, 140, 255, 0.12);
+    color: var(--accent);
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+
+  .hint {
+    position: absolute;
+    bottom: 0.8rem;
+    right: 1rem;
+    color: var(--text-dim);
+    font-size: 0.7rem;
+    opacity: 0.5;
+  }
+
+  /* Back side */
+  .entry {
+    margin-bottom: 0.8rem;
+  }
+
+  .entry:last-child { margin-bottom: 0; }
+
+  .entry-pos {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 0.2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .entry-def {
+    font-size: 0.88rem;
+    line-height: 1.4;
+    margin-bottom: 0.3rem;
+  }
+
+  .entry-example {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    font-style: italic;
+    line-height: 1.4;
+  }
+
+  .back-hint {
+    position: absolute;
+    bottom: 0.8rem;
+    right: 1rem;
+    color: var(--text-dim);
+    font-size: 0.7rem;
+    opacity: 0.5;
+  }
+
+  .loading {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-dim);
+  }
+
+  .empty {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-dim);
+    grid-column: 1 / -1;
+  }
+
+  @media (max-width: 600px) {
+    header { padding: 1.5rem 1rem 0.5rem; }
+    .filters { padding: 0.5rem 1rem; }
+    .search-box { padding: 0 1rem; }
+    .grid { padding: 0 1rem 2rem; gap: 0.75rem; }
+    .card-container { height: 220px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Vocabulary Cards</h1>
+  <p>Click a card to flip and reveal the definition</p>
+  <div class="stats" id="stats"></div>
+</header>
+
+<div class="search-box">
+  <input type="text" id="search" placeholder="Search words..." />
+</div>
+
+<div class="filters" id="filters"></div>
+
+<div class="grid" id="grid">
+  <div class="loading">Loading vocabulary...</div>
+</div>
+
+<script>
+let allWords = [];
+let wordDetails = {};
+let activeFilter = 'all';
+
+const grid = document.getElementById('grid');
+const statsEl = document.getElementById('stats');
+const filtersEl = document.getElementById('filters');
+const searchInput = document.getElementById('search');
+
+async function init() {
+  try {
+    const res = await fetch('./words/index.json');
+    allWords = await res.json();
+    renderFilters();
+    renderStats();
+    renderCards();
+  } catch (e) {
+    grid.innerHTML = '<div class="empty">Failed to load vocabulary data.</div>';
+  }
+}
+
+function renderStats() {
+  const total = allWords.length;
+  const levels = {};
+  allWords.forEach(w => { levels[w.cefrLevel] = (levels[w.cefrLevel] || 0) + 1; });
+  statsEl.innerHTML = `<span>Total: <strong>${total}</strong> words</span>` +
+    Object.entries(levels).sort().map(([l, c]) => `<span>${l}: <strong>${c}</strong></span>`).join('');
+}
+
+function renderFilters() {
+  const levels = [...new Set(allWords.map(w => w.cefrLevel))].sort();
+  const filters = ['all', ...levels];
+  filtersEl.innerHTML = filters.map(f =>
+    `<button class="filter-btn${f === activeFilter ? ' active' : ''}" data-level="${f}">${f.toUpperCase()}</button>`
+  ).join('');
+  filtersEl.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeFilter = btn.dataset.level;
+      filtersEl.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderCards();
+    });
+  });
+}
+
+function getFilteredWords() {
+  let words = allWords;
+  if (activeFilter !== 'all') {
+    words = words.filter(w => w.cefrLevel === activeFilter);
+  }
+  const q = searchInput.value.trim().toLowerCase();
+  if (q) {
+    words = words.filter(w => w.word.toLowerCase().includes(q));
+  }
+  return words;
+}
+
+function renderCards() {
+  const words = getFilteredWords();
+  if (words.length === 0) {
+    grid.innerHTML = '<div class="empty">No words found.</div>';
+    return;
+  }
+  grid.innerHTML = words.map(w => `
+    <div class="card-container" data-word="${w.word}" data-file="${w.file}">
+      <div class="card">
+        <div class="card-face card-front">
+          <span class="cefr-badge cefr-${w.cefrLevel.toLowerCase()}">${w.cefrLevel}</span>
+          <div class="word-title">${w.word}</div>
+          <div class="pronunciation">${w.pronunciation}</div>
+          <div class="pos-tags">
+            ${w.partOfSpeech.map(p => `<span class="pos-tag">${p}</span>`).join('')}
+          </div>
+          <span class="hint">Click to flip</span>
+        </div>
+        <div class="card-face card-back">
+          <div class="back-content" data-loaded="false">Loading...</div>
+          <span class="back-hint">Click to flip back</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+
+  grid.querySelectorAll('.card-container').forEach(container => {
+    const card = container.querySelector('.card');
+    card.addEventListener('click', async () => {
+      const isFlipping = !card.classList.contains('flipped');
+      card.classList.toggle('flipped');
+      if (isFlipping) {
+        const backContent = card.querySelector('.back-content');
+        if (backContent.dataset.loaded === 'false') {
+          await loadDetail(container, backContent);
+        }
+      }
+    });
+  });
+}
+
+async function loadDetail(container, backContent) {
+  const file = container.dataset.file;
+  const word = container.dataset.word;
+
+  if (wordDetails[word]) {
+    backContent.innerHTML = renderDetail(wordDetails[word]);
+    backContent.dataset.loaded = 'true';
+    return;
+  }
+
+  try {
+    const res = await fetch(`./words/${file}`);
+    const data = await res.json();
+    wordDetails[word] = data;
+    backContent.innerHTML = renderDetail(data);
+    backContent.dataset.loaded = 'true';
+  } catch (e) {
+    backContent.innerHTML = '<div style="color:#f44336">Failed to load</div>';
+  }
+}
+
+function renderDetail(data) {
+  return data.entries.map(e => `
+    <div class="entry">
+      <div class="entry-pos">${e.partOfSpeech}${e.transitivity ? ' · ' + e.transitivity : ''}</div>
+      <div class="entry-def">${e.definition}</div>
+      <div class="entry-example">"${e.exampleSentence}"</div>
+    </div>
+  `).join('');
+}
+
+searchInput.addEventListener('input', renderCards);
+
+init();
+</script>
+</body>
+</html>
