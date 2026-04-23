@@ -84,6 +84,13 @@
     "file": "incline.json"
   },
   {
+    "word": "intensity",
+    "pronunciation": "/ɪnˈtɛnsɪti/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "intensity.json"
+  },
+  {
     "word": "interest",
     "pronunciation": "/ˈɪntrəst/",
     "cefrLevel": "A2",

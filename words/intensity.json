@@ -1,0 +1,16 @@
+{
+  "word": "intensity",
+  "pronunciation": "/ɪnˈtɛnsɪti/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The quality of being intense; the degree, strength, or force of something such as light, emotion, sound, effort, or feeling.",
+      "exampleSentence": "The intensity of the storm surprised the coastal town.",
+      "collocations": ["intensity of light", "intensity of feeling", "high intensity", "peak intensity"],
+      "synonyms": ["strength", "force", "power", "degree"],
+      "antonyms": ["mildness", "weakness", "faintness"]
+    }
+  ],
+  "wordFamily": ["intense", "intensely", "intensify", "intensification"]
+}
