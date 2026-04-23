@@ -1,5 +1,12 @@
 [
   {
+    "word": "bait",
+    "pronunciation": "/beɪt/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "bait.json"
+  },
+  {
     "word": "breed",
     "pronunciation": "/briːd/",
     "cefrLevel": "B2",

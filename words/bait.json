@@ -1,0 +1,32 @@
+{
+  "word": "bait",
+  "pronunciation": "/beɪt/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "Food or other objects used to attract fish, animals, or people into a trap or to lure them; something used to entice or tempt.",
+      "exampleSentence": "He used worms as bait to catch trout.",
+      "collocations": ["fishing bait", "set the bait", "use as bait"],
+      "synonyms": ["lure", "decoy", "enticement"],
+      "antonyms": ["deterrent"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "bait",
+        "past": "baited",
+        "pastParticiple": "baited",
+        "presentParticiple": "baiting",
+        "thirdPersonSingular": "baits"
+      },
+      "definition": "To lure or entice someone or something, often by offering a reward or provocation; to put bait on a hook or in a trap.",
+      "exampleSentence": "They baited the trap with cheese.",
+      "collocations": ["bait a hook", "bait someone into", "bait the trap"],
+      "synonyms": ["lure", "entice", "tempt"],
+      "antonyms": ["dissuade"]
+    }
+  ],
+  "wordFamily": ["baited", "baiting", "baiter"]
+}
