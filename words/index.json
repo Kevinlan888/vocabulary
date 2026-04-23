@@ -80,6 +80,13 @@
     "file": "get-on.json"
   },
   {
+    "word": "gradual",
+    "pronunciation": "/ˈɡrædʒuəl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "gradual.json"
+  },
+  {
     "word": "hazard",
     "pronunciation": "/ˈhæzəd/",
     "cefrLevel": "B2",

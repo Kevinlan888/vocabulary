@@ -1,0 +1,16 @@
+{
+  "word": "gradual",
+  "pronunciation": "/ˈɡrædʒuəl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "happening slowly over a period of time",
+      "exampleSentence": "There has been a gradual improvement in her health.",
+      "collocations": ["gradual increase", "gradual decline", "gradual change"],
+      "synonyms": ["incremental", "steady", "slow"],
+      "antonyms": ["sudden", "rapid"]
+    }
+  ],
+  "wordFamily": ["gradually"]
+}
