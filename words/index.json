@@ -14,6 +14,13 @@
     "file": "campsite.json"
   },
   {
+    "word": "contraption",
+    "pronunciation": "/kənˈtræpʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "contraption.json"
+  },
+  {
     "word": "disparate",
     "pronunciation": "/ˈdɪspərət/",
     "cefrLevel": "C1",

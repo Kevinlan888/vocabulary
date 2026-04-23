@@ -1,0 +1,16 @@
+{
+  "word": "contraption",
+  "pronunciation": "/kənˈtræpʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A machine or device that appears strange, unnecessarily complicated, or badly made; a gadget or contrivance.",
+      "exampleSentence": "He pulled a strange contraption out of the toolbox and switched it on.",
+      "collocations": ["odd contraption", "Rube Goldberg contraption", "strange contraption"],
+      "synonyms": ["gadget", "device", "contrivance", "apparatus"],
+      "antonyms": ["simple tool"]
+    }
+  ],
+  "wordFamily": ["contraptions", "contrive", "contrived"]
+}
