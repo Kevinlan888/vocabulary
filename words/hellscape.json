@@ -1,0 +1,16 @@
+{
+  "word": "hellscape",
+  "pronunciation": "/ˈhɛlskeɪp/",
+  "cefrLevel": "C2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An environment or scene that is extremely unpleasant, chaotic, or nightmarish; resembling Hell.",
+      "exampleSentence": "After the storm, the town looked like a hellscape of overturned cars and ruined buildings.",
+      "collocations": ["post-apocalyptic hellscape", "urban hellscape", "turn into a hellscape"],
+      "synonyms": ["nightmare", "inferno", "dystopia"],
+      "antonyms": ["paradise", "haven"]
+    }
+  ],
+  "wordFamily": ["hellish", "hellishly"]
+}
