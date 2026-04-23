@@ -203,6 +203,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "stumble",
+    "pronunciation": "/ˈstʌmbəl/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "stumble.json"
+  },
+  {
     "word": "trip",
     "pronunciation": "/trɪp/",
     "cefrLevel": "B1",

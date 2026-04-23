@@ -1,0 +1,32 @@
+{
+  "word": "stumble",
+  "pronunciation": "/ˈstʌmbəl/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "verb (intransitive)",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "stumble",
+        "past": "stumbled",
+        "pastParticiple": "stumbled",
+        "presentParticiple": "stumbling",
+        "thirdPersonSingular": "stumbles"
+      },
+      "definition": "To trip or momentarily lose one's balance while walking or running; to make a mistake or hesitate.",
+      "exampleSentence": "She stumbled on the uneven pavement but didn't fall.",
+      "collocations": ["stumble over", "stumble upon", "stumble and fall"],
+      "synonyms": ["trip", "hesitate", "falter"],
+      "antonyms": ["steady", "stride"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A trip or momentary loss of balance; a mistake or setback.",
+      "exampleSentence": "The company had a small stumble in sales last quarter.",
+      "collocations": ["a stumble in", "a stumble over"],
+      "synonyms": ["trip", "slip", "setback"],
+      "antonyms": ["success", "stride"]
+    }
+  ],
+  "wordFamily": ["stumbled", "stumbling", "stumbler"]
+}
