@@ -1,0 +1,16 @@
+{
+  "word": "tyrannical",
+  "pronunciation": "/tɪˈrænɪkəl/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Exercising power in a cruel, harsh, or arbitrary way; unjustly severe or oppressive.",
+      "exampleSentence": "The dictator's tyrannical rule crushed political opposition.",
+      "collocations": ["tyrannical ruler", "tyrannical regime", "tyrannical rule"],
+      "synonyms": ["despotic", "autocratic", "oppressive"],
+      "antonyms": ["democratic", "lenient", "benevolent"]
+    }
+  ],
+  "wordFamily": ["tyrant", "tyranny", "tyrannize", "tyrannically"]
+}

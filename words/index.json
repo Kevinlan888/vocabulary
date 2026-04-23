@@ -119,6 +119,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "tyrannical",
+    "pronunciation": "/tɪˈrænɪkəl/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "tyrannical.json"
+  },
+  {
     "word": "tyre lever",
     "pronunciation": "/ˈtaɪə ˈliːvə/",
     "cefrLevel": "C2",
