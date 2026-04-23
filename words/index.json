@@ -63,6 +63,13 @@
     "file": "noting.json"
   },
   {
+    "word": "pancake",
+    "pronunciation": "/ˈpænkeɪk/",
+    "cefrLevel": "A2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "pancake.json"
+  },
+  {
     "word": "oppressive",
     "pronunciation": "/əˈprɛsɪv/",
     "cefrLevel": "C1",

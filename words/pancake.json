@@ -1,0 +1,32 @@
+{
+  "word": "pancake",
+  "pronunciation": "/ˈpænkeɪk/",
+  "cefrLevel": "A2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A flat, usually round cake cooked on a hot surface and often eaten for breakfast.",
+      "exampleSentence": "She made a stack of pancakes with maple syrup for breakfast.",
+      "collocations": ["pancake batter", "stack of pancakes", "flip a pancake"],
+      "synonyms": ["flapjack", "hotcake"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "pancake",
+        "past": "pancaked",
+        "pastParticiple": "pancaked",
+        "presentParticiple": "pancaking",
+        "thirdPersonSingular": "pancakes"
+      },
+      "definition": "To flatten something so that it becomes flat like a pancake; to land or fall flat (especially of aircraft or objects).",
+      "exampleSentence": "The plane pancaked onto the runway after the hard landing.",
+      "collocations": ["pancake flat", "pancake into"],
+      "synonyms": ["flatten", "crush"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["pancakes", "pancaked", "pancaking"]
+}
