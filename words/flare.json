@@ -1,0 +1,40 @@
+{
+  "word": "flare",
+  "pronunciation": "/flɛər/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A sudden brief burst of bright light or flame; a device producing a bright light as a signal or for illumination.",
+      "exampleSentence": "They fired a distress flare to alert the rescue team.",
+      "collocations": ["distress flare", "flare of flame", "signal flare"],
+      "synonyms": ["signal", "burst of light"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "flare",
+        "past": "flared",
+        "pastParticiple": "flared",
+        "presentParticiple": "flaring",
+        "thirdPersonSingular": "flares"
+      },
+      "definition": "To blaze or burn with a sudden intensity; to burst out or spread suddenly; to become wider or more open (of clothing).",
+      "exampleSentence": "Tempers flared during the heated discussion.",
+      "collocations": ["flare up", "tempers flared", "flare into"],
+      "synonyms": ["blaze", "burst"],
+      "antonyms": ["subside", "diminish"]
+    },
+    {
+      "partOfSpeech": "noun (astronomy)",
+      "definition": "A sudden eruption of energy on the surface of the sun (solar flare).",
+      "exampleSentence": "A powerful solar flare disrupted radio communications.",
+      "collocations": ["solar flare"],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["flared", "flaring", "flare-up"]
+}

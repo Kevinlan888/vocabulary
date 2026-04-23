@@ -28,6 +28,13 @@
     "file": "disparate.json"
   },
   {
+    "word": "flare",
+    "pronunciation": "/flɛər/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "flare.json"
+  },
+  {
     "word": "flinch",
     "pronunciation": "/flɪntʃ/",
     "cefrLevel": "C1",
