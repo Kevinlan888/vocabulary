@@ -1,0 +1,16 @@
+{
+  "word": "drawback",
+  "pronunciation": "/ˈdrɔːbæk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A disadvantage or problem that makes a situation less attractive or causes difficulties; an undesirable feature or outcome.",
+      "exampleSentence": "The main drawback of the proposal is its high cost.",
+      "collocations": ["main drawback", "significant drawback", "the drawback is that"],
+      "synonyms": ["disadvantage", "downside", "limitation"],
+      "antonyms": ["advantage", "benefit", "asset"]
+    }
+  ],
+  "wordFamily": ["drawbacks"]
+}

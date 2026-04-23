@@ -35,6 +35,13 @@
     "file": "disparate.json"
   },
   {
+    "word": "drawback",
+    "pronunciation": "/ˈdrɔːbæk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "drawback.json"
+  },
+  {
     "word": "flare",
     "pronunciation": "/flɛər/",
     "cefrLevel": "B2",
