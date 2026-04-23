@@ -1,0 +1,24 @@
+{
+  "word": "resemble",
+  "pronunciation": "/rɪˈzɛmbl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "resemble",
+        "past": "resembled",
+        "pastParticiple": "resembled",
+        "presentParticiple": "resembling",
+        "thirdPersonSingular": "resembles"
+      },
+      "definition": "To be similar to or have the appearance of; to look like or be alike.",
+      "exampleSentence": "She closely resembles her grandmother.",
+      "collocations": ["closely resemble", "strongly resemble", "bear a resemblance to"],
+      "synonyms": ["look like", "be similar to"],
+      "antonyms": ["differ", "contrast"]
+    }
+  ],
+  "wordFamily": ["resemblance", "resembling"]
+}

@@ -175,6 +175,13 @@
     "file": "reluctant.json"
   },
   {
+    "word": "resemble",
+    "pronunciation": "/rɪˈzɛmbl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "resemble.json"
+  },
+  {
     "word": "suffocating",
     "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
     "cefrLevel": "B2",
