@@ -28,6 +28,13 @@
     "file": "flinch.json"
   },
   {
+    "word": "figurative",
+    "pronunciation": "/ˈfɪɡərətɪv/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "figurative.json"
+  },
+  {
     "word": "hazard",
     "pronunciation": "/ˈhæzəd/",
     "cefrLevel": "B2",

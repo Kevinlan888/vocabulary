@@ -1,0 +1,16 @@
+{
+  "word": "figurative",
+  "pronunciation": "/ˈfɪɡərətɪv/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Using words or expressions with a meaning different from the literal interpretation; metaphorical or symbolic rather than literal.",
+      "exampleSentence": "When she said she was 'drowning in paperwork,' she was speaking figuratively, not literally.",
+      "collocations": ["figurative language", "figurative meaning", "figurative speech"],
+      "synonyms": ["metaphorical", "non-literal"],
+      "antonyms": ["literal"]
+    }
+  ],
+  "wordFamily": ["figuratively", "figurativeness"]
+}
