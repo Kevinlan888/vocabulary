@@ -1,0 +1,35 @@
+{
+  "word": "attribute",
+  "pronunciation": {
+    "noun": "/ˈætrɪbjuːt/",
+    "verb": "/əˈtrɪbjuːt/"
+  },
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A quality or characteristic that is inherent in or ascribed to someone or something.",
+      "exampleSentence": "Patience is an important attribute for a teacher.",
+      "collocations": ["key attribute", "essential attribute", "attribute of"],
+      "synonyms": ["quality", "trait", "characteristic"],
+      "antonyms": ["defect", "flaw"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "attribute",
+        "past": "attributed",
+        "pastParticiple": "attributed",
+        "presentParticiple": "attributing",
+        "thirdPersonSingular": "attributes"
+      },
+      "definition": "To regard something as being caused by (someone or something); to ascribe.",
+      "exampleSentence": "She attributed her success to hard work and good timing.",
+      "collocations": ["attribute to", "be attributed to", "commonly attributed"],
+      "synonyms": ["ascribe", "credit"],
+      "antonyms": ["deny"]
+    }
+  ],
+  "wordFamily": ["attributable", "attribution", "attributive"]
+}

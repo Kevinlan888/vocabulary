@@ -1,5 +1,15 @@
 [
   {
+    "word": "attribute",
+    "pronunciation": {
+      "noun": "/ˈætrɪbjuːt/",
+      "verb": "/əˈtrɪbjuːt/"
+    },
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "attribute.json"
+  },
+  {
     "word": "bait",
     "pronunciation": "/beɪt/",
     "cefrLevel": "B1",
