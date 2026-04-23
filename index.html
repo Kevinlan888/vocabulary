@@ -579,6 +579,19 @@ function getFilteredWords() {
   return words;
 }
 
+function formatPronunciation(p) {
+  if (!p && p !== 0) return '';
+  // string
+  if (typeof p === 'string') return p;
+  // array
+  if (Array.isArray(p)) return p.join(' · ');
+  // object: map keys to values
+  if (typeof p === 'object') {
+    return Object.entries(p).map(([k, v]) => `${k}: ${v}`).join(' · ');
+  }
+  return String(p);
+}
+
 function renderCards() {
   const words = getFilteredWords();
   if (words.length === 0) {
@@ -591,7 +604,7 @@ function renderCards() {
         <div class="card-face card-front">
           <span class="cefr-badge cefr-${w.cefrLevel.toLowerCase()}">${w.cefrLevel}</span>
           <div class="word-title">${w.word}</div>
-          <div class="pronunciation">${w.pronunciation}</div>
+          <div class="pronunciation">${formatPronunciation(w.pronunciation)}</div>
           <div class="pos-tags">
             ${w.partOfSpeech.map(p => `<span class="pos-tag">${p}</span>`).join('')}
           </div>
@@ -717,8 +730,8 @@ async function openModal(word, file) {
   modalContent.innerHTML = `
     <div class="modal-header">
       <div>
-        <div class="modal-title">${data.word}</div>
-        <div class="modal-pron">${data.pronunciation} · <span class="cefr-badge cefr-${data.cefrLevel.toLowerCase()}" style="font-size:0.65rem;padding:0.1rem 0.45rem;">${data.cefrLevel}</span></div>
+          <div class="modal-title">${data.word}</div>
+          <div class="modal-pron">${formatPronunciation(data.pronunciation)} · <span class="cefr-badge cefr-${data.cefrLevel.toLowerCase()}" style="font-size:0.65rem;padding:0.1rem 0.45rem;">${data.cefrLevel}</span></div>
       </div>
       <button class="modal-close" onclick="closeModal()">&times;</button>
     </div>
