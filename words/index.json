@@ -203,6 +203,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "trip",
+    "pronunciation": "/trɪp/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "trip.json"
+  },
+  {
     "word": "tyrannical",
     "pronunciation": "/tɪˈrænɪkəl/",
     "cefrLevel": "C1",

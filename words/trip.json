@@ -1,0 +1,41 @@
+{
+  "word": "trip",
+  "pronunciation": "/trɪp/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A journey or excursion, especially a short one for pleasure or business.",
+      "exampleSentence": "They're planning a trip to the coast next weekend.",
+      "collocations": ["go on a trip", "business trip", "day trip"],
+      "synonyms": ["journey", "excursion", "outing"],
+      "antonyms": ["stay"]
+    },
+    {
+      "partOfSpeech": "verb (intransitive)",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "trip",
+        "past": "tripped",
+        "pastParticiple": "tripped",
+        "presentParticiple": "tripping",
+        "thirdPersonSingular": "trips"
+      },
+      "definition": "To stumble or catch one's foot so that one nearly falls.",
+      "exampleSentence": "Be careful not to trip on that step.",
+      "collocations": ["trip over", "trip and fall"],
+      "synonyms": ["stumble"],
+      "antonyms": ["steady"]
+    },
+    {
+      "partOfSpeech": "verb (transitive)",
+      "transitivity": "transitive",
+      "definition": "To cause someone to stumble; to cause to fall or to cause a mechanism to activate (e.g., trip a switch).",
+      "exampleSentence": "The loose cable tripped him as he walked by. / The alarm was tripped when the door opened.",
+      "collocations": ["trip someone up", "trip a switch"],
+      "synonyms": ["cause to stumble", "activate"],
+      "antonyms": ["prevent"]
+    }
+  ],
+  "wordFamily": ["tripped", "tripping", "tripper", "trips"]
+}
