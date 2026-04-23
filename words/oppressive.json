@@ -1,0 +1,16 @@
+{
+  "word": "oppressive",
+  "pronunciation": "/əˈprɛsɪv/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Unjustly harsh or tyrannical; causing discomfort, hardship, or distress. Also used to describe something overwhelming or stifling (for example, oppressive heat or an oppressive atmosphere).",
+      "exampleSentence": "The regime's oppressive laws severely restricted basic freedoms.",
+      "collocations": ["oppressive regime", "oppressive heat", "oppressive atmosphere"],
+      "synonyms": ["tyrannical", "repressive", "stifling", "harsh"],
+      "antonyms": ["liberating", "lenient", "relieving"]
+    }
+  ],
+  "wordFamily": ["oppress", "oppressed", "oppression", "oppressively"]
+}

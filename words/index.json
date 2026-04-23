@@ -63,6 +63,13 @@
     "file": "noting.json"
   },
   {
+    "word": "oppressive",
+    "pronunciation": "/əˈprɛsɪv/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "oppressive.json"
+  },
+  {
     "word": "puncture",
     "pronunciation": "/ˈpʌŋktʃə/",
     "cefrLevel": "B2",
