@@ -147,6 +147,13 @@
     "file": "suffocating.json"
   },
   {
+    "word": "swell",
+    "pronunciation": "/swɛl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun", "adjective"],
+    "file": "swell.json"
+  },
+  {
     "word": "scoff",
     "pronunciation": "/skɒf/",
     "cefrLevel": "C1",

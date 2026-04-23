@@ -1,0 +1,40 @@
+{
+  "word": "swell",
+  "pronunciation": "/swɛl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "swell",
+        "past": "swelled",
+        "pastParticiple": "swollen",
+        "presentParticiple": "swelling",
+        "thirdPersonSingular": "swells"
+      },
+      "definition": "To increase in size, volume, or quantity, often by internal pressure; to become larger or rounder; to grow in intensity or importance.",
+      "exampleSentence": "Her ankle began to swell after she twisted it.",
+      "collocations": ["swell up", "swell with pride", "swell in size"],
+      "synonyms": ["expand", "increase", "bulge"],
+      "antonyms": ["shrink", "diminish"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "A gradual increase in the size or volume of the sea or waves; a long rolling wave or series of waves; a gradual increase or rise.",
+      "exampleSentence": "A swell rolled in from the open ocean, making the boat rock gently.",
+      "collocations": ["ocean swell", "swell height", "long swell"],
+      "synonyms": ["rise", "roll"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective (informal)",
+      "definition": "Excellent or very good (chiefly dated/informal).",
+      "exampleSentence": "They had a swell time at the picnic.",
+      "collocations": ["swell time"],
+      "synonyms": ["great", "splendid"],
+      "antonyms": ["awful"]
+    }
+  ],
+  "wordFamily": ["swelled", "swelling", "swollen", "swellingly"]
+}
