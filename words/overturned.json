@@ -1,0 +1,32 @@
+{
+  "word": "overturned",
+  "pronunciation": "/ˌoʊvərˈtɜrnd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "overturn",
+        "past": "overturned",
+        "pastParticiple": "overturned",
+        "presentParticiple": "overturning",
+        "thirdPersonSingular": "overturns"
+      },
+      "definition": "To turn something over so that it is upside down; to reverse or annul (a decision, verdict, or ruling).",
+      "exampleSentence": "The court overturned the earlier decision.",
+      "collocations": ["overturn a decision", "overturn a verdict", "overturn a law"],
+      "synonyms": ["reverse", "annul", "invalidate"],
+      "antonyms": ["uphold", "confirm"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "(of an object) turned over; (of a decision) reversed or annulled.",
+      "exampleSentence": "The overturned car blocked the highway.",
+      "collocations": ["overturned vehicle", "overturned ruling"],
+      "synonyms": ["upturned", "reversed"],
+      "antonyms": ["upright", "upheld"]
+    }
+  ],
+  "wordFamily": ["overturn", "overturning", "overturned"]
+}

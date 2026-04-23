@@ -133,6 +133,13 @@
     "file": "oppressive.json"
   },
   {
+    "word": "overturned",
+    "pronunciation": "/ˌoʊvərˈtɜrnd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "adjective"],
+    "file": "overturned.json"
+  },
+  {
     "word": "puncture",
     "pronunciation": "/ˈpʌŋktʃə/",
     "cefrLevel": "B2",
