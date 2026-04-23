@@ -1,0 +1,32 @@
+{
+  "word": "hinge",
+  "pronunciation": "/hɪndʒ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A movable joint or mechanism on which a door, lid, or other attached part swings; a point or factor on which something depends or turns.",
+      "exampleSentence": "The old door hung from a rusty hinge.",
+      "collocations": ["door hinge", "hinge mechanism", "hinge pin"],
+      "synonyms": ["joint", "pivot"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "hinge",
+        "past": "hinged",
+        "pastParticiple": "hinged",
+        "presentParticiple": "hinging",
+        "thirdPersonSingular": "hinges"
+      },
+      "definition": "To attach or fasten with a hinge; (figuratively) to depend or turn on a key factor or issue.",
+      "exampleSentence": "The committee's decision hinges on the final budget report.",
+      "collocations": ["hinge on", "hinge upon", "hinge together"],
+      "synonyms": ["pivot on", "depend on"],
+      "antonyms": ["detach"]
+    }
+  ],
+  "wordFamily": ["hinged", "hinging", "hingeless"]
+}

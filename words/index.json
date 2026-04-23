@@ -42,6 +42,13 @@
     "file": "hazard.json"
   },
   {
+    "word": "hinge",
+    "pronunciation": "/hɪndʒ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "hinge.json"
+  },
+  {
     "word": "hunk",
     "pronunciation": "/hʌŋk/",
     "cefrLevel": "B2",
