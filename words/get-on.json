@@ -1,0 +1,51 @@
+{
+  "word": "get on",
+  "pronunciation": "/ɡet ɒn/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "phrasal verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "get on",
+        "past": "got on",
+        "pastParticiple": "got on",
+        "presentParticiple": "getting on",
+        "thirdPersonSingular": "gets on"
+      },
+      "definition": "To board or mount (a vehicle or animal).",
+      "exampleSentence": "She got on the bus at the next stop.",
+      "collocations": ["get on a bus", "get on board", "get on the train"],
+      "synonyms": ["board"],
+      "antonyms": ["get off", "alight"]
+    },
+    {
+      "partOfSpeech": "phrasal verb",
+      "transitivity": "intransitive",
+      "definition": "To have a friendly or good relationship with someone (often with `get on with`).",
+      "exampleSentence": "They get on well despite their differences.",
+      "collocations": ["get on with someone", "get on well"],
+      "synonyms": ["get along", "be friendly with"],
+      "antonyms": ["fall out", "disagree"]
+    },
+    {
+      "partOfSpeech": "phrasal verb",
+      "transitivity": "intransitive",
+      "definition": "To make progress or continue (often `get on with` something).",
+      "exampleSentence": "Stop chatting and get on with your homework.",
+      "collocations": ["get on with work", "get on with it"],
+      "synonyms": ["progress", "carry on"],
+      "antonyms": ["stall", "delay"]
+    },
+    {
+      "partOfSpeech": "phrasal verb",
+      "transitivity": "intransitive",
+      "definition": "To grow older (informal).",
+      "exampleSentence": "He's getting on a bit — he retires next year.",
+      "collocations": ["getting on", "get on for (age)"],
+      "synonyms": ["age"],
+      "antonyms": ["grow young"]
+    }
+  ],
+  "wordFamily": ["gets on", "got on", "getting on"]
+}

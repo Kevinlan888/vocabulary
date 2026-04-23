@@ -42,6 +42,13 @@
     "file": "figurative.json"
   },
   {
+    "word": "get on",
+    "pronunciation": "/ɡet ɒn/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["phrasal verb"],
+    "file": "get-on.json"
+  },
+  {
     "word": "hazard",
     "pronunciation": "/ˈhæzəd/",
     "cefrLevel": "B2",
