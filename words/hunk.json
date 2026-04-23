@@ -1,0 +1,32 @@
+{
+  "word": "hunk",
+  "pronunciation": "/hʌŋk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A large piece or lump of something (e.g., a hunk of bread or meat).",
+      "exampleSentence": "She tore off a hunk of bread and handed it to him.",
+      "collocations": ["a hunk of bread", "a hunk of meat", "large hunk"],
+      "synonyms": ["chunk", "lump"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun (informal)",
+      "definition": "An attractive, well-built person (usually used of a man).",
+      "exampleSentence": "He's a bit of a hunk — everyone noticed him at the party.",
+      "collocations": ["a handsome hunk", "be a hunk"],
+      "synonyms": ["beefcake", "stud"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun (computing)",
+      "definition": "A contiguous block of changes in a diff output (often called a 'hunk' in patch/diff tools).",
+      "exampleSentence": "The patch contained three hunks: two small fixes and one large refactor.",
+      "collocations": ["diff hunk", "patch hunk"],
+      "synonyms": ["block"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["hunks", "hunkish", "hunkiness"]
+}

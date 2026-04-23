@@ -42,6 +42,13 @@
     "file": "hazard.json"
   },
   {
+    "word": "hunk",
+    "pronunciation": "/hʌŋk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "hunk.json"
+  },
+  {
     "word": "incline",
     "pronunciation": "/ɪnˈklaɪn/",
     "cefrLevel": "B2",
