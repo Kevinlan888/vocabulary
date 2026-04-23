@@ -181,4 +181,12 @@
     "partOfSpeech": ["verb"],
     "file": "undergo.json"
   }
+  ,
+  {
+    "word": "vicious",
+    "pronunciation": "/ˈvɪʃəs/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "vicious.json"
+  }
 ]

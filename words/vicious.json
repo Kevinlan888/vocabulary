@@ -1,0 +1,16 @@
+{
+  "word": "vicious",
+  "pronunciation": "/ˈvɪʃəs/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Deliberately cruel or violent; intentionally harmful. Also used to describe something severe, intense, or dangerous (e.g., a vicious storm) or morally corrupt.",
+      "exampleSentence": "The dog gave a vicious growl and lunged at the intruder.",
+      "collocations": ["vicious attack", "vicious circle", "vicious rumor"],
+      "synonyms": ["cruel", "brutal", "ferocious", "malicious"],
+      "antonyms": ["kind", "gentle", "benevolent"]
+    }
+  ],
+  "wordFamily": ["viciously", "viciousness"]
+}
