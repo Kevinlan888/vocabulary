@@ -91,6 +91,13 @@
     "file": "reluctant.json"
   },
   {
+    "word": "suffocating",
+    "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "suffocating.json"
+  },
+  {
     "word": "scoff",
     "pronunciation": "/skɒf/",
     "cefrLevel": "C1",

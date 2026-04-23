@@ -1,0 +1,32 @@
+{
+  "word": "suffocating",
+  "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Causing difficulty in breathing or a feeling of being unable to breathe; also used figuratively to describe an oppressive or stifling atmosphere.",
+      "exampleSentence": "The suffocating heat made it hard to sleep at night.",
+      "collocations": ["suffocating heat", "suffocating atmosphere", "suffocating embrace"],
+      "synonyms": ["stifling", "smothering", "choking"],
+      "antonyms": ["refreshing", "ventilated", "airy"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "suffocate",
+        "past": "suffocated",
+        "pastParticiple": "suffocated",
+        "presentParticiple": "suffocating",
+        "thirdPersonSingular": "suffocates"
+      },
+      "definition": "To cause someone to die or lose consciousness by preventing breathing; to make someone feel trapped or oppressed.",
+      "exampleSentence": "Many people were suffocated by the smoke from the fire.",
+      "collocations": ["suffocate someone", "suffocate under", "suffocate with smoke"],
+      "synonyms": ["choke", "smother"],
+      "antonyms": ["revive", "liberate"]
+    }
+  ],
+  "wordFamily": ["suffocate", "suffocated", "suffocation", "suffocative"]
+}
