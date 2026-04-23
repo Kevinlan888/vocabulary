@@ -1,0 +1,24 @@
+{
+  "word": "perception",
+  "pronunciation": "/pəˈsɛpʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The process of becoming aware of something through the senses; the way in which something is interpreted and understood.",
+      "exampleSentence": "Public perception of the policy changed after the report was published.",
+      "collocations": ["visual perception", "sense perception", "public perception", "perception of risk"],
+      "synonyms": ["awareness", "insight", "cognition"],
+      "antonyms": ["ignorance", "misperception"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "An opinion or belief about something; an interpretation held by people.",
+      "exampleSentence": "There is a common perception that the city is expensive to live in.",
+      "collocations": ["common perception", "widespread perception"],
+      "synonyms": ["view", "belief", "impression"],
+      "antonyms": ["fact"]
+    }
+  ],
+  "wordFamily": ["perceive", "perceptual", "perceptive", "perceiver"]
+}

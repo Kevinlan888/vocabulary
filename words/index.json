@@ -133,6 +133,13 @@
     "file": "pancake.json"
   },
   {
+    "word": "perception",
+    "pronunciation": "/pəˈsɛpʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "perception.json"
+  },
+  {
     "word": "oppressive",
     "pronunciation": "/əˈprɛsɪv/",
     "cefrLevel": "C1",
