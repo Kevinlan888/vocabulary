@@ -203,6 +203,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "setback",
+    "pronunciation": "/ˈsɛtbæk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "setback.json"
+  },
+  {
     "word": "stumble",
     "pronunciation": "/ˈstʌmbəl/",
     "cefrLevel": "B1",

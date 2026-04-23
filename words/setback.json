@@ -1,0 +1,16 @@
+{
+  "word": "setback",
+  "pronunciation": "/ˈsɛtbæk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A reversal or check in progress; an event that delays or prevents progress or success.",
+      "exampleSentence": "The project suffered a major setback when funding was withdrawn.",
+      "collocations": ["suffer a setback", "major setback", "minor setback"],
+      "synonyms": ["reverse", "obstacle", "drawback", "hindrance"],
+      "antonyms": ["advance", "success", "breakthrough"]
+    }
+  ],
+  "wordFamily": ["set back (phrasal verb)", "setbacks"]
+}
