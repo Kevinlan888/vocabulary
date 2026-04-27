@@ -1,0 +1,16 @@
+{
+  "word": "diffusion",
+  "pronunciation": "/dɪˈfjuːʒən/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the process by which something (such as particles, information, or innovations) spreads over an area or through a medium",
+      "exampleSentence": "The diffusion of the new technology was faster than predicted.",
+      "collocations": ["diffusion of innovation", "rate of diffusion", "diffusion process"],
+      "synonyms": ["spread", "dissemination"],
+      "antonyms": ["concentration", "containment"]
+    }
+  ],
+  "wordFamily": ["diffuse", "diffusive", "diffusely"]
+}

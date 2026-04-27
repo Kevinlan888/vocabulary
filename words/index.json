@@ -45,6 +45,13 @@
     "file": "disparate.json"
   },
   {
+    "word": "diffusion",
+    "pronunciation": "/dɪˈfjuːʒən/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "diffusion.json"
+  },
+  {
     "word": "drawback",
     "pronunciation": "/ˈdrɔːbæk/",
     "cefrLevel": "B2",
