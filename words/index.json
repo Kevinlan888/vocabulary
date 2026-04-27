@@ -290,6 +290,13 @@
     "file": "superstitious.json"
   },
   {
+    "word": "suspense",
+    "pronunciation": "/səˈspɛns/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "suspense.json"
+  },
+  {
     "word": "scoff",
     "pronunciation": "/skɒf/",
     "cefrLevel": "C1",

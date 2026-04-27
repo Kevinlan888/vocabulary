@@ -1,0 +1,16 @@
+{
+  "word": "suspense",
+  "pronunciation": "/səˈspɛns/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a state or feeling of excited or anxious uncertainty about what may happen",
+      "exampleSentence": "The final chapter filled readers with suspense.",
+      "collocations": ["build suspense", "suspense thriller", "sense of suspense"],
+      "synonyms": ["tension", "anticipation", "anxiety"],
+      "antonyms": ["certainty", "calm"]
+    }
+  ],
+  "wordFamily": ["suspend", "suspenseful"]
+}
