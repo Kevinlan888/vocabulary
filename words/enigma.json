@@ -1,0 +1,16 @@
+{
+  "word": "enigma",
+  "pronunciation": "/ɪˈnɪɡmə/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person or thing that is mysterious, puzzling, or difficult to understand",
+      "exampleSentence": "Her sudden decision to leave remains an enigma to everyone who knew her.",
+      "collocations": ["complete enigma", "remain an enigma", "mysterious enigma"],
+      "synonyms": ["mystery", "puzzle", "riddle"],
+      "antonyms": ["clarity", "explanation"]
+    }
+  ],
+  "wordFamily": ["enigmatic"]
+}
