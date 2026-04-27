@@ -1,0 +1,24 @@
+{
+  "word": "invade",
+  "pronunciation": "/ɪnˈveɪd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "invade",
+        "past": "invaded",
+        "pastParticiple": "invaded",
+        "presentParticiple": "invading",
+        "thirdPersonSingular": "invades"
+      },
+      "definition": "to enter (a place, situation, or someone's space) by force or without permission, often with hostile intent; to intrude upon",
+      "exampleSentence": "Enemy forces invaded the city at dawn.",
+      "collocations": ["invade a country", "invade privacy", "invade territory"],
+      "synonyms": ["intrude", "encroach", "occupy"],
+      "antonyms": ["withdraw", "retreat"]
+    }
+  ],
+  "wordFamily": ["invasion", "invader", "invasive"]
+}

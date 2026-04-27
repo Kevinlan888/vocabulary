@@ -157,6 +157,13 @@
     "file": "incline.json"
   },
   {
+    "word": "invade",
+    "pronunciation": "/ɪnˈveɪd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "invade.json"
+  },
+  {
     "word": "intensity",
     "pronunciation": "/ɪnˈtɛnsɪti/",
     "cefrLevel": "B2",
