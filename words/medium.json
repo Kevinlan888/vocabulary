@@ -1,0 +1,32 @@
+{
+  "word": "medium",
+  "pronunciation": "/ˈmiːdiəm/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a means of communication or expression; a channel or material through which something is transmitted or expressed",
+      "exampleSentence": "Television remains an important medium for news and entertainment.",
+      "collocations": ["mass medium", "communication medium", "art medium"],
+      "synonyms": ["channel", "means", "vehicle"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a material used by an artist or a particular form of artistic expression",
+      "exampleSentence": "Oil paint is her favourite medium.",
+      "collocations": ["art medium", "mixed media", "preferred medium"],
+      "synonyms": ["material"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "of a size, amount, or degree that is between small and large; moderate",
+      "exampleSentence": "He ordered a medium coffee.",
+      "collocations": ["medium size", "medium rare", "medium level"],
+      "synonyms": ["moderate", "average"],
+      "antonyms": ["small", "large"]
+    }
+  ],
+  "wordFamily": ["media", "mediums"]
+}
