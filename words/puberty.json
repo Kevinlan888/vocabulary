@@ -1,0 +1,16 @@
+{
+  "word": "puberty",
+  "pronunciation": "/ˈpjuːbərti/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the period during which adolescents reach sexual maturity and become capable of reproduction; marked by physical and hormonal changes",
+      "exampleSentence": "Many people experience mood swings during puberty.",
+      "collocations": ["onset of puberty", "early puberty", "puberty stage"],
+      "synonyms": ["adolescence (partial)"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["pubescent", "pubesce"]
+}

@@ -213,6 +213,13 @@
     "file": "reintroduction.json"
   },
   {
+    "word": "puberty",
+    "pronunciation": "/ˈpjuːbərti/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "puberty.json"
+  },
+  {
     "word": "reluctant",
     "pronunciation": "/rɪˈlʌktənt/",
     "cefrLevel": "B2",
