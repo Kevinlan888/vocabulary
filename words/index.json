@@ -255,6 +255,13 @@
     "file": "resemble.json"
   },
   {
+    "word": "nostalgic",
+    "pronunciation": "/nɒˈstældʒɪk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "nostalgic.json"
+  },
+  {
     "word": "ridge",
     "pronunciation": "/rɪdʒ/",
     "cefrLevel": "B1",

@@ -1,0 +1,16 @@
+{
+  "word": "nostalgic",
+  "pronunciation": "/nɒˈstældʒɪk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "feeling, evoking, or characterised by a sentimental longing or wistful affection for the past",
+      "exampleSentence": "She felt nostalgic about the summer holidays she spent at her grandparents' house.",
+      "collocations": ["nostalgic for", "feel nostalgic", "nostalgic memories"],
+      "synonyms": ["wistful", "sentimental", "yearning"],
+      "antonyms": ["forward-looking", "unsentimental"]
+    }
+  ],
+  "wordFamily": ["nostalgia", "nostalgically"]
+}
