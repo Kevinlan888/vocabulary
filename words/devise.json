@@ -1,0 +1,24 @@
+{
+  "word": "devise",
+  "pronunciation": "/dɪˈvaɪz/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "devise",
+        "past": "devised",
+        "pastParticiple": "devised",
+        "presentParticiple": "devising",
+        "thirdPersonSingular": "devises"
+      },
+      "definition": "to plan or invent (a complex procedure, system, or mechanism) by careful thought",
+      "exampleSentence": "They devised a new method to reduce waste.",
+      "collocations": ["devise a plan", "devise a strategy", "devise methods"],
+      "synonyms": ["invent", "formulate", "conceive"],
+      "antonyms": ["copy", "imitate"]
+    }
+  ],
+  "wordFamily": ["deviser", "devised", "devising"]
+}

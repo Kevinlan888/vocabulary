@@ -52,6 +52,13 @@
     "file": "disparate.json"
   },
   {
+    "word": "devise",
+    "pronunciation": "/dɪˈvaɪz/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb"],
+    "file": "devise.json"
+  },
+  {
     "word": "diffusion",
     "pronunciation": "/dɪˈfjuːʒən/",
     "cefrLevel": "C1",
