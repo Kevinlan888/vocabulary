@@ -1,0 +1,16 @@
+{
+  "word": "trite",
+  "pronunciation": "/traɪt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "(of a remark, opinion, or idea) overused and consequently of little import; lacking originality or freshness",
+      "exampleSentence": "The film relied on trite jokes and predictable plot twists.",
+      "collocations": ["trite remark", "sound trite", "trite cliché"],
+      "synonyms": ["banal", "hackneyed", "cliched"],
+      "antonyms": ["original", "fresh", "innovative"]
+    }
+  ],
+  "wordFamily": ["triteness", "tritely"]
+}

@@ -290,6 +290,13 @@
     "file": "trip.json"
   },
   {
+    "word": "trite",
+    "pronunciation": "/traɪt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "trite.json"
+  },
+  {
     "word": "tyrannical",
     "pronunciation": "/tɪˈrænɪkəl/",
     "cefrLevel": "C1",
