@@ -227,6 +227,13 @@
     "file": "puncture.json"
   },
   {
+    "word": "plaque",
+    "pronunciation": "/plæk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "plaque.json"
+  },
+  {
     "word": "recognise",
     "pronunciation": "/ˈrekəɡnaɪz/",
     "cefrLevel": "B1",

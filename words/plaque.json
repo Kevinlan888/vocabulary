@@ -1,0 +1,24 @@
+{
+  "word": "plaque",
+  "pronunciation": "/plæk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a flat piece of metal, stone, or other material, often attached to a surface as a memorial or to display information",
+      "exampleSentence": "A bronze plaque on the wall commemorates the building's history.",
+      "collocations": ["bronze plaque", "memorial plaque", "commemorative plaque"],
+      "synonyms": ["plate", "tablet"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a soft, sticky deposit that forms on teeth and contains bacteria (dental plaque)",
+      "exampleSentence": "Regular brushing helps remove plaque from your teeth.",
+      "collocations": ["dental plaque", "remove plaque", "plaque buildup"],
+      "synonyms": ["deposit"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["plaques"]
+}
