@@ -17,6 +17,13 @@
     "file": "bait.json"
   },
   {
+    "word": "bravery",
+    "pronunciation": "/ˈbreɪvəri/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "bravery.json"
+  },
+  {
     "word": "breed",
     "pronunciation": "/briːd/",
     "cefrLevel": "B2",

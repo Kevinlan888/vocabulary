@@ -1,0 +1,16 @@
+{
+  "word": "bravery",
+  "pronunciation": "/ˈbreɪvəri/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "courageous behaviour or character; the quality of being brave",
+      "exampleSentence": "Her bravery during the rescue saved lives.",
+      "collocations": ["act of bravery", "display bravery", "show bravery"],
+      "synonyms": ["courage", "valor", "heroism"],
+      "antonyms": ["cowardice", "timidity"]
+    }
+  ],
+  "wordFamily": ["brave", "bravely"]
+}
