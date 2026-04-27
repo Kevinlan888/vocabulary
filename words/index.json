@@ -312,6 +312,13 @@
   }
   ,
   {
+    "word": "valedictorian",
+    "pronunciation": "/ˌvælɪdɪkˈtɔːriən/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "valedictorian.json"
+  },
+  {
     "word": "vicious",
     "pronunciation": "/ˈvɪʃəs/",
     "cefrLevel": "C1",

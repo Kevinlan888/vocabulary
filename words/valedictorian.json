@@ -1,0 +1,16 @@
+{
+  "word": "valedictorian",
+  "pronunciation": "/ˌvælɪdɪkˈtɔːriən/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the student with the highest academic rank in a graduating class, often chosen to deliver the valedictory (farewell) address",
+      "exampleSentence": "She was named valedictorian and gave an inspiring speech at graduation.",
+      "collocations": ["class valedictorian", "school valedictorian", "valedictorian speech"],
+      "synonyms": ["top student", "first in class"],
+      "antonyms": ["underperformer", "bottom of the class"]
+    }
+  ],
+  "wordFamily": ["valedictory"]
+}
