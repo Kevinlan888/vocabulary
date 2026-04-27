@@ -1,0 +1,24 @@
+{
+  "word": "ritual",
+  "pronunciation": "/ˈrɪtʃuəl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "A set of fixed actions and sometimes words performed regularly, especially as part of a ceremony or religious practice.",
+      "exampleSentence": "Morning coffee has become a comforting ritual for her before work.",
+      "collocations": ["religious ritual", "daily ritual", "ceremonial ritual"],
+      "synonyms": ["ceremony", "rite", "observance"],
+      "antonyms": ["spontaneity"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Relating to or done as a ritual.",
+      "exampleSentence": "They followed the ritual procedures before beginning the experiment.",
+      "collocations": ["ritual practice", "ritual behaviour"],
+      "synonyms": ["ceremonial", "formal"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["ritualize", "ritualistic"]
+}

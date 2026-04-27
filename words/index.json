@@ -290,6 +290,13 @@
     "file": "ridge.json"
   },
   {
+    "word": "ritual",
+    "pronunciation": "/ˈrɪtʃuəl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "adjective"],
+    "file": "ritual.json"
+  },
+  {
     "word": "suffocating",
     "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
     "cefrLevel": "B2",
