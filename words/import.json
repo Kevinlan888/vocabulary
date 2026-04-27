@@ -1,0 +1,32 @@
+{
+  "word": "import",
+  "pronunciation": "/ˈɪmpɔːt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "import",
+        "past": "imported",
+        "pastParticiple": "imported",
+        "presentParticiple": "importing",
+        "thirdPersonSingular": "imports"
+      },
+      "definition": "to bring goods or services into a country from abroad for sale or use",
+      "exampleSentence": "The company imports coffee from Colombia.",
+      "collocations": ["import goods", "import duty", "import data"],
+      "synonyms": ["bring in", "bring into the country"],
+      "antonyms": ["export"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "1) the act of importing goods; 2) the significance or importance of something",
+      "exampleSentence": "The import of the new policy is that firms must change their practices.",
+      "collocations": ["import of", "economic import", "import value"],
+      "synonyms": ["importance", "significance", "entry"],
+      "antonyms": ["insignificance", "export"]
+    }
+  ],
+  "wordFamily": ["importer", "importation", "imported"]
+}

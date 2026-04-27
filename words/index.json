@@ -122,6 +122,13 @@
     "file": "hunk.json"
   },
   {
+    "word": "import",
+    "pronunciation": "/ˈɪmpɔːt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "import.json"
+  },
+  {
     "word": "incline",
     "pronunciation": "/ɪnˈklaɪn/",
     "cefrLevel": "B2",
