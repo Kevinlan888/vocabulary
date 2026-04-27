@@ -1,0 +1,16 @@
+{
+  "word": "superstitious",
+  "pronunciation": "/ˌsuːpərˈstɪʃəs/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "having or showing a belief in superstitions; influenced by irrational beliefs about luck or the supernatural",
+      "exampleSentence": "Many sailors were superstitious about the full moon.",
+      "collocations": ["superstitious belief", "superstitious about", "deeply superstitious"],
+      "synonyms": ["credulous", "supernatural-minded"],
+      "antonyms": ["rational", "skeptical"]
+    }
+  ],
+  "wordFamily": ["superstition", "superstitiously"]
+}

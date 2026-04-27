@@ -234,6 +234,13 @@
     "file": "swell.json"
   },
   {
+    "word": "superstitious",
+    "pronunciation": "/ˌsuːpərˈstɪʃəs/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "superstitious.json"
+  },
+  {
     "word": "scoff",
     "pronunciation": "/skɒf/",
     "cefrLevel": "C1",
