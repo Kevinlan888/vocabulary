@@ -1,0 +1,16 @@
+{
+  "word": "ridge",
+  "pronunciation": "/rɪdʒ/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a long, narrow raised part of the surface of the earth, or of something such as a roof",
+      "exampleSentence": "We hiked along the ridge to reach the summit.",
+      "collocations": ["mountain ridge", "ridge line", "ridge top"],
+      "synonyms": ["crest", "ridge-line", "elevation"],
+      "antonyms": ["valley", "trough"]
+    }
+  ],
+  "wordFamily": ["ridged"]
+}

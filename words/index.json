@@ -213,6 +213,13 @@
     "file": "resemble.json"
   },
   {
+    "word": "ridge",
+    "pronunciation": "/rɪdʒ/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun"],
+    "file": "ridge.json"
+  },
+  {
     "word": "suffocating",
     "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
     "cefrLevel": "B2",
