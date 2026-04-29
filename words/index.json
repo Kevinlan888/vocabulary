@@ -360,6 +360,20 @@
     "file": "trip.json"
   },
   {
+    "word": "transfer",
+    "pronunciation": "/trænsˈfɜː(r)/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "transfer.json"
+  },
+  {
+    "word": "transmit",
+    "pronunciation": "/trænsˈmɪt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "transmit.json"
+  },
+  {
     "word": "trite",
     "pronunciation": "/traɪt/",
     "cefrLevel": "B2",

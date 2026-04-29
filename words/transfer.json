@@ -1,0 +1,32 @@
+{
+  "word": "transfer",
+  "pronunciation": "/trænsˈfɜː(r)/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "An act of moving something or someone from one place, person, or situation to another.",
+      "exampleSentence": "She completed the transfer of funds between accounts.",
+      "collocations": ["money transfer", "transfer of ownership", "transfer student"],
+      "synonyms": ["move", "handover", "conveyance"],
+      "antonyms": ["retention"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "transfer",
+        "past": "transferred",
+        "pastParticiple": "transferred",
+        "presentParticiple": "transferring",
+        "thirdPersonSingular": "transfers"
+      },
+      "definition": "To move someone or something from one place, position, or system to another.",
+      "exampleSentence": "They transferred the patient to a specialist hospital.",
+      "collocations": ["transfer ownership", "transfer data", "transfer files"],
+      "synonyms": ["move", "relocate", "convey"],
+      "antonyms": ["keep", "retain"]
+    }
+  ],
+  "wordFamily": ["transferred", "transferring", "transferable"]
+}

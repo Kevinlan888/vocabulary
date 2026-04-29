@@ -1,0 +1,24 @@
+{
+  "word": "transmit",
+  "pronunciation": "/trænsˈmɪt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "transmit",
+        "past": "transmitted",
+        "pastParticiple": "transmitted",
+        "presentParticiple": "transmitting",
+        "thirdPersonSingular": "transmits"
+      },
+      "definition": "To send or pass something (such as a message, signal, or disease) from one person, place, or thing to another.",
+      "exampleSentence": "Cell towers transmit signals to mobile phones across the city.",
+      "collocations": ["transmit data", "transmit infection", "transmit a signal"],
+      "synonyms": ["send", "broadcast", "convey"],
+      "antonyms": ["receive"]
+    }
+  ],
+  "wordFamily": ["transmitted", "transmitting", "transmission"]
+}
