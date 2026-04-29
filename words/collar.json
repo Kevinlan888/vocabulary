@@ -1,0 +1,25 @@
+{
+  "word": "collar",
+  "pronunciation": "/ˈkɒl.ər/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "The part of a piece of clothing that encircles the neck, or a band placed around an animal's neck.",
+      "exampleSentence": "He adjusted the collar of his coat before going outside.",
+      "collocations": ["shirt collar", "leather collar", "tight collar"],
+      "synonyms": ["neckband", "band"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "definition": "To seize or catch someone, often by the collar; to restrain or detain.",
+      "exampleSentence": "The officer collared the suspect as he tried to leave.",
+      "collocations": ["collar someone", "be collared by"],
+      "synonyms": ["seize", "grab", "apprehend"],
+      "antonyms": ["release"]
+    }
+  ],
+  "wordFamily": ["collared", "collaring", "collarless"]
+}

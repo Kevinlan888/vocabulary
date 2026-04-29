@@ -38,6 +38,13 @@
     "file": "campsite.json"
   },
   {
+    "word": "collar",
+    "pronunciation": "/ˈkɒl.ər/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "collar.json"
+  },
+  {
     "word": "contraption",
     "pronunciation": "/kənˈtræpʃən/",
     "cefrLevel": "B2",
