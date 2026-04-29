@@ -1,0 +1,40 @@
+{
+  "word": "drained",
+  "pronunciation": "/dreɪnd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Extremely tired or exhausted; depleted of energy.",
+      "exampleSentence": "After the long shift, she felt completely drained.",
+      "collocations": ["feel drained", "emotionally drained", "physically drained"],
+      "synonyms": ["exhausted", "fatigued", "worn out"],
+      "antonyms": ["energized", "refreshed"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "Emptied of liquid or contents; having had fluid removed.",
+      "exampleSentence": "The rain had drained the pond dry.",
+      "collocations": ["drained dry", "drained of blood", "completely drained"],
+      "synonyms": ["emptied", "depleted"],
+      "antonyms": ["filled"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "drain",
+        "past": "drained",
+        "pastParticiple": "drained",
+        "presentParticiple": "draining",
+        "thirdPersonSingular": "drains"
+      },
+      "definition": "(past participle) To cause something to lose liquid or energy; to remove contents by flowing away or by deliberate action.",
+      "exampleSentence": "They drained the water from the pool before winter.",
+      "collocations": ["drain the battery", "drain the swamp", "drained by"],
+      "synonyms": ["empty", "deplete"],
+      "antonyms": ["fill", "replenish"]
+    }
+  ],
+  "wordFamily": ["drain", "draining", "drained"]
+}

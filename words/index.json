@@ -80,6 +80,13 @@
     "file": "enigma.json"
   },
   {
+    "word": "drained",
+    "pronunciation": "/dreɪnd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "drained.json"
+  },
+  {
     "word": "drawback",
     "pronunciation": "/ˈdrɔːbæk/",
     "cefrLevel": "B2",
