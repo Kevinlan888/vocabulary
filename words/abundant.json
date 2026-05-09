@@ -1,0 +1,16 @@
+{
+  "word": "abundant",
+  "pronunciation": "/əˈbʌndənt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "existing or available in large quantities; plentiful",
+      "exampleSentence": "The region is abundant in natural resources.",
+      "collocations": ["abundant in", "abundant resources", "abundant evidence"],
+      "synonyms": ["plentiful", "ample", "copious", "profuse"],
+      "antonyms": ["scarce", "rare", "insufficient"]
+    }
+  ],
+  "wordFamily": ["abundance", "abundantly"]
+}

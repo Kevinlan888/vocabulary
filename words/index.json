@@ -1,5 +1,12 @@
 [
   {
+    "word": "abundant",
+    "pronunciation": "/əˈbʌndənt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "abundant.json"
+  },
+  {
     "word": "attribute",
     "pronunciation": {
       "noun": "/ˈætrɪbjuːt/",
