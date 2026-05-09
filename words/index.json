@@ -241,6 +241,13 @@
     "file": "perception.json"
   },
   {
+    "word": "precipitation",
+    "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "precipitation.json"
+  },
+  {
     "word": "oppressive",
     "pronunciation": "/əˈprɛsɪv/",
     "cefrLevel": "C1",

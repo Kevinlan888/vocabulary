@@ -1,0 +1,24 @@
+{
+  "word": "precipitation",
+  "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "any form of water (such as rain, snow, sleet, or hail) that falls from the atmosphere to the ground",
+      "exampleSentence": "Heavy precipitation overnight caused local flooding.",
+      "collocations": ["heavy precipitation", "light precipitation", "precipitation levels"],
+      "synonyms": ["rainfall", "snowfall"],
+      "antonyms": ["dry weather", "evaporation"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "(chemistry) the process or product of a solid separating from a solution",
+      "exampleSentence": "A white precipitation formed when the reagent was added.",
+      "collocations": ["chemical precipitation", "precipitation reaction"],
+      "synonyms": ["precipitate (formation)"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["precipitate", "precipitous", "precipitating", "precipitated"]
+}
