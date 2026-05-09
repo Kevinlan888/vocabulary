@@ -1,0 +1,24 @@
+{
+  "word": "compartment",
+  "pronunciation": "/kəmˈpɑːtmənt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a separate section or enclosed space within a larger structure, used for storage or organization",
+      "exampleSentence": "She put the passport in the glove compartment of the car.",
+      "collocations": ["storage compartment", "locked compartment", "glove compartment"],
+      "synonyms": ["section", "division", "cell"],
+      "antonyms": ["open space"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a distinct area or category used metaphorically to separate ideas, responsibilities, or functions",
+      "exampleSentence": "He keeps his work and personal life in separate compartments.",
+      "collocations": ["mental compartment", "organisational compartment"],
+      "synonyms": ["category", "slot"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["compartmentalize", "compartmentalization"]
+}

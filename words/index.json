@@ -59,6 +59,13 @@
     "file": "comply.json"
   },
   {
+    "word": "compartment",
+    "pronunciation": "/kəmˈpɑːtmənt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "compartment.json"
+  },
+  {
     "word": "contraption",
     "pronunciation": "/kənˈtræpʃən/",
     "cefrLevel": "B2",
