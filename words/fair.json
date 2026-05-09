@@ -1,0 +1,32 @@
+{
+  "word": "fair",
+  "pronunciation": "/feə(r)/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "treating people equally and without bias; just; also reasonable or acceptable",
+      "exampleSentence": "It's only fair that everyone gets the same amount.",
+      "collocations": ["fair treatment", "fair play", "a fair chance"],
+      "synonyms": ["just", "equitable", "reasonable"],
+      "antonyms": ["unfair", "biased", "partial"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a public event with rides, stalls, or exhibitions; a market or trade show",
+      "exampleSentence": "We spent the afternoon at the county fair.",
+      "collocations": ["county fair", "book fair", "trade fair"],
+      "synonyms": ["market", "exhibition", "fairground"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "to a moderately large degree; quite (informal usage: 'fairly')",
+      "exampleSentence": "She did fairly well on the test.",
+      "collocations": ["fairly well", "fairly certain"],
+      "synonyms": ["quite", "moderately"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["fairness", "fairly", "fair-minded"]
+}

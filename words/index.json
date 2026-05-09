@@ -108,6 +108,13 @@
     "file": "drawback.json"
   },
   {
+    "word": "fair",
+    "pronunciation": "/feə(r)/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["adjective", "noun", "adverb"],
+    "file": "fair.json"
+  },
+  {
     "word": "flare",
     "pronunciation": "/flɛər/",
     "cefrLevel": "B2",
