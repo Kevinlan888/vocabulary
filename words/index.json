@@ -290,6 +290,20 @@
     "file": "plaque.json"
   },
   {
+    "word": "potter",
+    "pronunciation": "/ˈpɒtər/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "potter.json"
+  },
+  {
+    "word": "pottery",
+    "pronunciation": "/ˈpɒtəri/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun"],
+    "file": "pottery.json"
+  },
+  {
     "word": "recognise",
     "pronunciation": "/ˈrekəɡnaɪz/",
     "cefrLevel": "B1",

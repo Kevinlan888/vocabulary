@@ -1,0 +1,32 @@
+{
+  "word": "potter",
+  "pronunciation": "/ˈpɒtər/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person who makes pottery, especially by shaping clay on a potter's wheel",
+      "exampleSentence": "The potter displayed his latest vases at the craft fair.",
+      "collocations": ["local potter", "master potter", "novice potter"],
+      "synonyms": ["ceramist"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "potter",
+        "past": "pottered",
+        "pastParticiple": "pottered",
+        "presentParticiple": "pottering",
+        "thirdPersonSingular": "potters"
+      },
+      "definition": "(informal) to occupy oneself in a leisurely or aimless way; to tinker or putter",
+      "exampleSentence": "She pottered around the garden all afternoon.",
+      "collocations": ["potter around", "potter about"],
+      "synonyms": ["putter", "tinker", "fiddle"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["pottery", "potter's wheel"]
+}

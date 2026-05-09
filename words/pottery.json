@@ -1,0 +1,24 @@
+{
+  "word": "pottery",
+  "pronunciation": "/ˈpɒtəri/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "objects (such as pots, dishes, and vases) made from clay and hardened by heat",
+      "exampleSentence": "The museum's collection includes ancient pottery from the Bronze Age.",
+      "collocations": ["pottery class", "pottery wheel", "pottery studio"],
+      "synonyms": ["ceramics", "earthenware"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the craft or activity of making objects from clay",
+      "exampleSentence": "She studied pottery at art school and now runs a studio.",
+      "collocations": ["learn pottery", "practice pottery"],
+      "synonyms": ["ceramics"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["potter", "potter's wheel", "pottery-making"]
+}
