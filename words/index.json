@@ -213,6 +213,13 @@
     "file": "noting.json"
   },
   {
+    "word": "nurture",
+    "pronunciation": "/ˈnɜːtʃə(r)/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "nurture.json"
+  },
+  {
     "word": "pancake",
     "pronunciation": "/ˈpænkeɪk/",
     "cefrLevel": "A2",

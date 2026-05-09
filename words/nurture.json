@@ -1,0 +1,32 @@
+{
+  "word": "nurture",
+  "pronunciation": "/ˈnɜːtʃə(r)/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "nurture",
+        "past": "nurtured",
+        "pastParticiple": "nurtured",
+        "presentParticiple": "nurturing",
+        "thirdPersonSingular": "nurtures"
+      },
+      "definition": "to care for and encourage the growth or development of someone or something",
+      "exampleSentence": "Parents should nurture their children's curiosity.",
+      "collocations": ["nurture growth", "nurture talent", "nurture relationships"],
+      "synonyms": ["foster", "cultivate", "encourage", "support"],
+      "antonyms": ["neglect", "ignore", "hinder"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the care and attention given to the development of someone or something",
+      "exampleSentence": "With the right nurture, seedlings will thrive.",
+      "collocations": ["care and nurture", "receive nurture", "provide nurture"],
+      "synonyms": ["care", "upbringing", "training"],
+      "antonyms": ["neglect"]
+    }
+  ],
+  "wordFamily": ["nurturing", "nurtured", "nurturer"]
+}
