@@ -136,6 +136,13 @@
     "file": "get-on.json"
   },
   {
+    "word": "gulp",
+    "pronunciation": "/ɡʌlp/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "gulp.json"
+  },
+  {
     "word": "gradual",
     "pronunciation": "/ˈɡrædʒuəl/",
     "cefrLevel": "B2",

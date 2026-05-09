@@ -1,0 +1,32 @@
+{
+  "word": "gulp",
+  "pronunciation": "/ɡʌlp/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "gulp",
+        "past": "gulped",
+        "pastParticiple": "gulped",
+        "presentParticiple": "gulping",
+        "thirdPersonSingular": "gulps"
+      },
+      "definition": "to swallow quickly or in large mouthfuls, often because of nervousness or haste",
+      "exampleSentence": "He gulped his drink and stood up to leave.",
+      "collocations": ["gulp down", "gulp back", "gulp with surprise"],
+      "synonyms": ["swallow", "bolt"],
+      "antonyms": ["sip"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a quick, large swallow; a sudden intake of breath",
+      "exampleSentence": "She took a gulp of water before answering.",
+      "collocations": ["a gulp of", "one gulp"],
+      "synonyms": ["swallow"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["gulped", "gulping", "gulper"]
+}
