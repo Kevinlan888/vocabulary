@@ -1,0 +1,40 @@
+{
+  "word": "stall",
+  "pronunciation": "/stɔːl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "stall",
+        "past": "stalled",
+        "pastParticiple": "stalled",
+        "presentParticiple": "stalling",
+        "thirdPersonSingular": "stalls"
+      },
+      "definition": "to stop making progress or to cause something to stop; to delay or intentionally slow down",
+      "exampleSentence": "The car stalled on the hill and refused to start again.",
+      "collocations": ["stall the engine", "stall for time", "stall progress"],
+      "synonyms": ["delay", "halt", "bog down"],
+      "antonyms": ["advance", "accelerate", "proceed"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a small booth or stand at a market or fair where goods are sold",
+      "exampleSentence": "She bought a scarf from a stall at the market.",
+      "collocations": ["market stall", "food stall", "book stall"],
+      "synonyms": ["stand", "booth"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a compartment in a stable for one animal or a small enclosed space",
+      "exampleSentence": "The horse was led back into its stall.",
+      "collocations": ["stable stall", "feed stall"],
+      "synonyms": ["stable", "stalling place"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["stalling", "stallholder"]
+}

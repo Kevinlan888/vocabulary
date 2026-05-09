@@ -416,6 +416,13 @@
     "file": "setback.json"
   },
   {
+    "word": "stall",
+    "pronunciation": "/stɔːl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "stall.json"
+  },
+  {
     "word": "stumble",
     "pronunciation": "/ˈstʌmbəl/",
     "cefrLevel": "B1",
