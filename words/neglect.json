@@ -1,0 +1,32 @@
+{
+  "word": "neglect",
+  "pronunciation": "/nɪˈɡlɛkt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "neglect",
+        "past": "neglected",
+        "pastParticiple": "neglected",
+        "presentParticiple": "neglecting",
+        "thirdPersonSingular": "neglects"
+      },
+      "definition": "to fail to give proper care or attention to someone or something; to omit or disregard",
+      "exampleSentence": "She neglected her health while working long hours.",
+      "collocations": ["neglect to", "neglect of", "neglect one's duties"],
+      "synonyms": ["negate", "ignore", "disregard", "overlook"],
+      "antonyms": ["attend to", "care for", "maintain"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "failure to provide necessary care or attention",
+      "exampleSentence": "The garden showed signs of neglect.",
+      "collocations": ["child neglect", "neglect of duty", "years of neglect"],
+      "synonyms": ["oversight", "dereliction", "inattention"],
+      "antonyms": ["care", "attention"]
+    }
+  ],
+  "wordFamily": ["neglected", "neglectful", "neglectfully", "neglecting"]
+}

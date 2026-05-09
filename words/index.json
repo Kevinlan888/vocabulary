@@ -206,6 +206,13 @@
     "file": "medium.json"
   },
   {
+    "word": "neglect",
+    "pronunciation": "/nɪˈɡlɛkt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "neglect.json"
+  },
+  {
     "word": "noting",
     "pronunciation": "/ˈnəʊtɪŋ/",
     "cefrLevel": "B1",
