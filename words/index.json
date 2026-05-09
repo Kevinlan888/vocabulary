@@ -45,6 +45,13 @@
     "file": "collar.json"
   },
   {
+    "word": "comply",
+    "pronunciation": "/kəmˈplaɪ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "comply.json"
+  },
+  {
     "word": "contraption",
     "pronunciation": "/kənˈtræpʃən/",
     "cefrLevel": "B2",

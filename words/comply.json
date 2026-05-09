@@ -1,0 +1,24 @@
+{
+  "word": "comply",
+  "pronunciation": "/kəmˈplaɪ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "comply",
+        "past": "complied",
+        "pastParticiple": "complied",
+        "presentParticiple": "complying",
+        "thirdPersonSingular": "complies"
+      },
+      "definition": "to act in accordance with a request, rule, or command; to conform to a requirement or standard",
+      "exampleSentence": "The company must comply with the new safety regulations.",
+      "collocations": ["comply with", "comply fully", "fail to comply"],
+      "synonyms": ["obey", "adhere", "conform", "follow"],
+      "antonyms": ["defy", "ignore", "disobey"]
+    }
+  ],
+  "wordFamily": ["compliance", "compliant", "compliantly"]
+}
