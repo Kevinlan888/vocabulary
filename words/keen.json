@@ -1,0 +1,40 @@
+{
+  "word": "keen",
+  "pronunciation": "/kiːn/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "eager or enthusiastic about something or to do something",
+      "exampleSentence": "She's a keen student who always sits in the front row.",
+      "collocations": ["keen on", "keen to", "keen interest"],
+      "synonyms": ["eager", "enthusiastic", "avid"],
+      "antonyms": ["reluctant", "indifferent", "apathetic"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "highly developed; sharp (of senses or mental ability)",
+      "exampleSentence": "Hawks have keen eyesight that allows them to spot prey from great distances.",
+      "collocations": ["keen eye", "keen sense of smell", "keen mind"],
+      "synonyms": ["sharp", "acute", "penetrating"],
+      "antonyms": ["dull", "dim", "blunt"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "intense or strong (of feelings, competition, etc.)",
+      "exampleSentence": "There was keen competition for the scholarship, with over 500 applicants.",
+      "collocations": ["keen competition", "keen awareness", "keen desire"],
+      "synonyms": ["intense", "fierce", "strong"],
+      "antonyms": ["mild", "weak"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "very low or competitive (of prices, especially in British English)",
+      "exampleSentence": "The shop offers keen prices on all its electronics.",
+      "collocations": ["keen prices", "keen rates"],
+      "synonyms": ["competitive", "low", "attractive"],
+      "antonyms": ["inflated", "excessive"]
+    }
+  ],
+  "wordFamily": ["keenly", "keenness"]
+}
