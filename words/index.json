@@ -575,6 +575,13 @@
     "file": "resort.json"
   },
   {
+    "word": "revoke",
+    "pronunciation": "/rɪˈvəʊk/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb"],
+    "file": "revoke.json"
+  },
+  {
     "word": "nostalgic",
     "pronunciation": "/nɒˈstældʒɪk/",
     "cefrLevel": "B2",

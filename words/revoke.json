@@ -1,0 +1,24 @@
+{
+  "word": "revoke",
+  "pronunciation": "/rɪˈvəʊk/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "revoke",
+        "past": "revoked",
+        "pastParticiple": "revoked",
+        "presentParticiple": "revoking",
+        "thirdPersonSingular": "revokes"
+      },
+      "definition": "to officially cancel, withdraw, or take back something such as a law, licence, right, privilege, or offer",
+      "exampleSentence": "His driving licence was revoked after he was caught speeding for the third time.",
+      "collocations": ["revoke a licence", "revoke permission", "revoke an offer", "revoke access", "revoke a law"],
+      "synonyms": ["cancel", "withdraw", "rescind", "repeal", "annul", "invalidate"],
+      "antonyms": ["grant", "issue", "approve", "authorise", "uphold"]
+    }
+  ],
+  "wordFamily": ["revocation", "revocable", "irrevocable"]
+}
