@@ -108,6 +108,13 @@
     "file": "enigma.json"
   },
   {
+    "word": "enroll",
+    "pronunciation": "/ɪnˈrəʊl/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["verb"],
+    "file": "enroll.json"
+  },
+  {
     "word": "drained",
     "pronunciation": "/dreɪnd/",
     "cefrLevel": "B2",

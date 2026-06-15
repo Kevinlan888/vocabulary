@@ -1,0 +1,24 @@
+{
+  "word": "enroll",
+  "pronunciation": "/ɪnˈrəʊl/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "enroll",
+        "past": "enrolled",
+        "pastParticiple": "enrolled",
+        "presentParticiple": "enrolling",
+        "thirdPersonSingular": "enrolls"
+      },
+      "definition": "to officially register or sign up for a course, school, programme, or membership",
+      "exampleSentence": "He decided to enroll in a Spanish class before his trip to Madrid.",
+      "collocations": ["enroll in a course", "enroll at a university", "enroll for a workshop"],
+      "synonyms": ["register", "sign up", "join", "matriculate"],
+      "antonyms": ["drop out", "withdraw", "unenroll"]
+    }
+  ],
+  "wordFamily": ["enrollment", "enrolment", "enrollee"]
+}
