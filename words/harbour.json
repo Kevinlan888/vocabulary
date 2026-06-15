@@ -1,0 +1,56 @@
+{
+  "word": "harbour",
+  "pronunciation": "/ˈhɑːbə(r)/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a sheltered area of water where ships, boats, and other vessels can dock safely",
+      "exampleSentence": "The fishing boats returned to the harbour just before the storm hit.",
+      "collocations": ["enter the harbour", "harbour town", "natural harbour"],
+      "synonyms": ["port", "dock", "marina", "haven"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a place of safety, refuge, or shelter (figurative)",
+      "exampleSentence": "The library was a quiet harbour for her during difficult times.",
+      "collocations": ["safe harbour", "harbour of peace"],
+      "synonyms": ["refuge", "sanctuary", "haven", "shelter"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "harbour",
+        "past": "harboured",
+        "pastParticiple": "harboured",
+        "presentParticiple": "harbouring",
+        "thirdPersonSingular": "harbours"
+      },
+      "definition": "to give shelter or protection to someone or something, especially secretly or illegally",
+      "exampleSentence": "He was arrested for harbouring a fugitive in his basement.",
+      "collocations": ["harbour a criminal", "harbour fugitives", "harbour doubts"],
+      "synonyms": ["shelter", "conceal", "hide", "protect"],
+      "antonyms": ["expel", "turn out", "banish"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "harbour",
+        "past": "harboured",
+        "pastParticiple": "harboured",
+        "presentParticiple": "harbouring",
+        "thirdPersonSingular": "harbours"
+      },
+      "definition": "to keep a thought, feeling, or emotion in one's mind over a long period (often negative)",
+      "exampleSentence": "She had harboured resentment towards her colleague for years without ever addressing it.",
+      "collocations": ["harbour a grudge", "harbour resentment", "harbour suspicions"],
+      "synonyms": ["nurse", "cherish", "nurture", "hold"],
+      "antonyms": ["let go", "release", "banish"]
+    }
+  ],
+  "wordFamily": ["harbourage"]
+}

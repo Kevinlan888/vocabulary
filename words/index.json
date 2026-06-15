@@ -204,6 +204,13 @@
     "file": "gradual.json"
   },
   {
+    "word": "harbour",
+    "pronunciation": "/ˈhɑːbə(r)/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "harbour.json"
+  },
+  {
     "word": "hazard",
     "pronunciation": "/ˈhæzəd/",
     "cefrLevel": "B2",
