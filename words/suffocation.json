@@ -1,0 +1,24 @@
+{
+  "word": "suffocation",
+  "pronunciation": "/ˌsʌfəˈkeɪʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "death or unconsciousness caused by lack of air or inability to breathe",
+      "exampleSentence": "The cause of death was determined to be suffocation from smoke inhalation.",
+      "collocations": ["death by suffocation", "risk of suffocation", "die of suffocation"],
+      "synonyms": ["asphyxiation", "choking", "strangulation"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a feeling of being trapped, oppressed, or unable to breathe freely (figurative)",
+      "exampleSentence": "She felt a growing sense of suffocation in the tiny apartment with no windows.",
+      "collocations": ["feeling of suffocation", "sense of suffocation"],
+      "synonyms": ["oppression", "stifling", "claustrophobia", "entrapment"],
+      "antonyms": ["freedom", "liberation"]
+    }
+  ],
+  "wordFamily": ["suffocate", "suffocating", "suffocative"]
+}

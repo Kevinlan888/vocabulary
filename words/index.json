@@ -554,6 +554,13 @@
     "file": "suffocating.json"
   },
   {
+    "word": "suffocation",
+    "pronunciation": "/ˌsʌfəˈkeɪʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "suffocation.json"
+  },
+  {
     "word": "swell",
     "pronunciation": "/swɛl/",
     "cefrLevel": "B2",
