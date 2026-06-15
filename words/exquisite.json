@@ -1,0 +1,24 @@
+{
+  "word": "exquisite",
+  "pronunciation": "/ɪkˈskwɪzɪt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "extremely beautiful, delicate, and carefully made",
+      "exampleSentence": "The museum displayed an exquisite collection of hand-painted porcelain from the Ming dynasty.",
+      "collocations": ["exquisite craftsmanship", "exquisite detail", "exquisite jewellery"],
+      "synonyms": ["beautiful", "delicate", "elegant", "refined", "superb", "flawless"],
+      "antonyms": ["crude", "coarse", "ugly", "clumsy", "rough"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "intensely felt or keenly experienced, especially of pleasure or pain",
+      "exampleSentence": "After the long hike, the cool drink brought exquisite relief.",
+      "collocations": ["exquisite pleasure", "exquisite pain", "exquisite relief"],
+      "synonyms": ["intense", "acute", "sharp", "keen", "profound"],
+      "antonyms": ["mild", "dull", "faint"]
+    }
+  ],
+  "wordFamily": ["exquisitely", "exquisiteness"]
+}

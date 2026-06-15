@@ -218,6 +218,13 @@
     "file": "excessive.json"
   },
   {
+    "word": "exquisite",
+    "pronunciation": "/ɪkˈskwɪzɪt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "exquisite.json"
+  },
+  {
     "word": "drained",
     "pronunciation": "/dreɪnd/",
     "cefrLevel": "B2",
@@ -510,6 +517,13 @@
     "cefrLevel": "B1",
     "partOfSpeech": ["noun", "verb"],
     "file": "plaster.json"
+  },
+  {
+    "word": "porcelain",
+    "pronunciation": "/ˈpɔːsəlɪn/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "adjective"],
+    "file": "porcelain.json"
   },
   {
     "word": "potter",

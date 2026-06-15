@@ -1,0 +1,24 @@
+{
+  "word": "porcelain",
+  "pronunciation": "/ˈpɔːsəlɪn/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a hard, white, translucent ceramic material made by firing a fine, pure clay at a very high temperature, used for making fine dishes, vases, figurines, and bathroom fixtures",
+      "exampleSentence": "The antique shop specialises in rare Chinese porcelain from the Qing dynasty.",
+      "collocations": ["fine porcelain", "porcelain vase", "porcelain figurine", "Chinese porcelain", "porcelain doll", "porcelain tiles"],
+      "synonyms": ["china", "fine china", "ceramic", "bone china"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "made of porcelain",
+      "exampleSentence": "She carefully arranged the porcelain teacups on the tray before the guests arrived.",
+      "collocations": ["porcelain bowl", "porcelain skin"],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["porcelain-like"]
+}
