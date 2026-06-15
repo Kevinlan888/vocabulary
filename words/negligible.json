@@ -1,0 +1,16 @@
+{
+  "word": "negligible",
+  "pronunciation": "/ˈneɡlɪdʒəbəl/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "so small, unimportant, or insignificant as to be not worth considering or having no practical effect",
+      "exampleSentence": "The damage to the car was negligible — just a tiny scratch on the bumper.",
+      "collocations": ["negligible amount", "negligible impact", "negligible difference", "statistically negligible"],
+      "synonyms": ["insignificant", "trivial", "minor", "minimal", "trifling", "inconsequential"],
+      "antonyms": ["significant", "substantial", "considerable", "major", "noteworthy"]
+    }
+  ],
+  "wordFamily": ["negligibly", "negligence", "neglect"]
+}

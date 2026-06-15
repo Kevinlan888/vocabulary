@@ -386,6 +386,13 @@
     "file": "neglect.json"
   },
   {
+    "word": "negligible",
+    "pronunciation": "/ˈneɡlɪdʒəbəl/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "negligible.json"
+  },
+  {
     "word": "noting",
     "pronunciation": "/ˈnəʊtɪŋ/",
     "cefrLevel": "B1",
