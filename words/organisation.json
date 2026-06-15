@@ -1,0 +1,24 @@
+{
+  "word": "organisation",
+  "pronunciation": "/ˌɔːɡənaɪˈzeɪʃən/",
+  "cefrLevel": "A2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a group of people who work together in a structured way for a shared purpose, such as a business, charity, club, or government body",
+      "exampleSentence": "She works for a non-profit organisation that provides clean water to rural communities.",
+      "collocations": ["non-profit organisation", "international organisation", "member of an organisation"],
+      "synonyms": ["company", "group", "body", "institution", "association", "entity"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the action of organising something or the way in which it is arranged",
+      "exampleSentence": "The organisation of the conference took months of careful planning.",
+      "collocations": ["lack of organisation", "good organisation", "poor organisation"],
+      "synonyms": ["planning", "arrangement", "coordination", "structuring"],
+      "antonyms": ["disorganisation", "disorder", "chaos"]
+    }
+  ],
+  "wordFamily": ["organise", "organize", "organiser", "organizer", "organisational", "organizational", "disorganisation"]
+}

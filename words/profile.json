@@ -1,0 +1,56 @@
+{
+  "word": "profile",
+  "pronunciation": "/ˈprəʊfaɪl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an outline or side view of a person's face or head",
+      "exampleSentence": "In silhouette, she could see his sharp profile against the sunset.",
+      "collocations": ["in profile", "side profile", "sharp profile"],
+      "synonyms": ["outline", "silhouette", "side view"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a short description of a person, organisation, or thing, giving the most important details",
+      "exampleSentence": "The police have built up a detailed profile of the suspect.",
+      "collocations": ["customer profile", "high-level profile", "build a profile"],
+      "synonyms": ["description", "portrait", "summary", "sketch"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the degree of public attention that someone or something receives",
+      "exampleSentence": "The charity has raised its profile significantly through social media campaigns.",
+      "collocations": ["high profile", "low profile", "raise one's profile", "keep a low profile"],
+      "synonyms": ["visibility", "prominence", "standing"],
+      "antonyms": ["anonymity", "obscurity"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a personal page or account on a social media platform",
+      "exampleSentence": "I updated my LinkedIn profile to reflect my new job.",
+      "collocations": ["social media profile", "online profile", "dating profile"],
+      "synonyms": ["account", "page", "user page"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "profile",
+        "past": "profiled",
+        "pastParticiple": "profiled",
+        "presentParticiple": "profiling",
+        "thirdPersonSingular": "profiles"
+      },
+      "definition": "to describe or give a summary of someone or something",
+      "exampleSentence": "The magazine profiled ten young entrepreneurs who are changing the industry.",
+      "collocations": ["be profiled in", "profile someone as"],
+      "synonyms": ["describe", "portray", "sketch", "feature"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["profiling", "profiler"]
+}

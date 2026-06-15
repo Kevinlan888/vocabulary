@@ -344,6 +344,13 @@
     "file": "oppressive.json"
   },
   {
+    "word": "organisation",
+    "pronunciation": "/ˌɔːɡənaɪˈzeɪʃən/",
+    "cefrLevel": "A2",
+    "partOfSpeech": ["noun"],
+    "file": "organisation.json"
+  },
+  {
     "word": "overturned",
     "pronunciation": "/ˌoʊvərˈtɜrnd/",
     "cefrLevel": "B2",
@@ -377,6 +384,13 @@
     "cefrLevel": "B1",
     "partOfSpeech": ["noun"],
     "file": "pottery.json"
+  },
+  {
+    "word": "profile",
+    "pronunciation": "/ˈprəʊfaɪl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "profile.json"
   },
   {
     "word": "recognise",
