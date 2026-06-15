@@ -113,6 +113,13 @@
     "file": "diffusion.json"
   },
   {
+    "word": "distinct",
+    "pronunciation": "/dɪˈstɪŋkt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "distinct.json"
+  },
+  {
     "word": "enigma",
     "pronunciation": "/ɪˈnɪɡmə/",
     "cefrLevel": "C1",
@@ -384,6 +391,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["noun"],
     "file": "recreation.json"
+  },
+  {
+    "word": "regress",
+    "pronunciation": "/rɪˈɡres/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb", "noun"],
+    "file": "regress.json"
   },
   {
     "word": "reintroduction",

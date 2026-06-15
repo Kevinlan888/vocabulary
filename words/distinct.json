@@ -1,0 +1,24 @@
+{
+  "word": "distinct",
+  "pronunciation": "/dɪˈstɪŋkt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "clearly different or separate from other things of the same kind",
+      "exampleSentence": "The word has three distinct meanings, each used in a different context.",
+      "collocations": ["distinct from", "distinct type", "distinct category"],
+      "synonyms": ["different", "separate", "discrete", "unconnected"],
+      "antonyms": ["identical", "same", "overlapping"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "clearly noticeable; unmistakable; definite",
+      "exampleSentence": "There was a distinct smell of smoke coming from the kitchen.",
+      "collocations": ["distinct possibility", "distinct impression", "distinct advantage"],
+      "synonyms": ["clear", "unmistakable", "definite", "obvious", "marked"],
+      "antonyms": ["faint", "vague", "indistinct", "subtle"]
+    }
+  ],
+  "wordFamily": ["distinctly", "distinctness", "distinction", "indistinct"]
+}

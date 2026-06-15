@@ -1,0 +1,32 @@
+{
+  "word": "regress",
+  "pronunciation": "/rɪˈɡres/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "regress",
+        "past": "regressed",
+        "pastParticiple": "regressed",
+        "presentParticiple": "regressing",
+        "thirdPersonSingular": "regresses"
+      },
+      "definition": "to return to a former, usually worse, state or condition; to go backwards in development or progress",
+      "exampleSentence": "Without regular practice, her language skills began to regress over the summer.",
+      "collocations": ["regress to", "regress into", "begin to regress"],
+      "synonyms": ["revert", "deteriorate", "backslide", "decline", "go backwards"],
+      "antonyms": ["progress", "advance", "improve", "develop"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of returning to an earlier state; in statistics, a measure of the relationship between variables",
+      "exampleSentence": "The data showed a clear regress in cognitive abilities after six months without training.",
+      "collocations": ["show regress", "in regress"],
+      "synonyms": ["regression", "decline", "reversion"],
+      "antonyms": ["progress", "advancement"]
+    }
+  ],
+  "wordFamily": ["regression", "regressive", "regressively"]
+}
