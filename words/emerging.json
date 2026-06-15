@@ -1,0 +1,32 @@
+{
+  "word": "emerging",
+  "pronunciation": "/ɪˈmɜːdʒɪŋ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "just beginning to become known, noticeable, or important; newly developing or appearing",
+      "exampleSentence": "The conference showcases emerging technologies that could transform healthcare in the next decade.",
+      "collocations": ["emerging market", "emerging technology", "emerging talent", "emerging trend"],
+      "synonyms": ["developing", "rising", "up-and-coming", "nascent", "budding"],
+      "antonyms": ["established", "mature", "declining", "fading"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "emerge",
+        "past": "emerged",
+        "pastParticiple": "emerged",
+        "presentParticiple": "emerging",
+        "thirdPersonSingular": "emerges"
+      },
+      "definition": "present participle of emerge — coming out from somewhere; becoming known or visible; starting to exist or appear",
+      "exampleSentence": "A butterfly was emerging from its cocoon, slowly unfolding its wings for the first time.",
+      "collocations": ["emerge from", "emerge as"],
+      "synonyms": ["appearing", "surfacing", "arising", "coming out"],
+      "antonyms": ["disappearing", "vanishing", "receding"]
+    }
+  ],
+  "wordFamily": ["emerge", "emergence", "emergent"]
+}

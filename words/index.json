@@ -85,6 +85,13 @@
     "file": "conflict.json"
   },
   {
+    "word": "contemporary",
+    "pronunciation": "/kənˈtempərəri/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "noun"],
+    "file": "contemporary.json"
+  },
+  {
     "word": "contraption",
     "pronunciation": "/kənˈtræpʃən/",
     "cefrLevel": "B2",
@@ -132,6 +139,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["adjective", "verb"],
     "file": "elaborate.json"
+  },
+  {
+    "word": "emerging",
+    "pronunciation": "/ɪˈmɜːdʒɪŋ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "emerging.json"
   },
   {
     "word": "enigma",

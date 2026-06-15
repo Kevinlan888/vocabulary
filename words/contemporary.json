@@ -1,0 +1,32 @@
+{
+  "word": "contemporary",
+  "pronunciation": "/kənˈtempərəri/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "belonging to or occurring in the present time; modern",
+      "exampleSentence": "The gallery specialises in contemporary art from emerging artists around the world.",
+      "collocations": ["contemporary art", "contemporary society", "contemporary design"],
+      "synonyms": ["modern", "current", "present-day", "up-to-date"],
+      "antonyms": ["old-fashioned", "outdated", "historical", "antique"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "living, existing, or happening at the same time as another person or thing",
+      "exampleSentence": "Charles Dickens was contemporary with Queen Victoria — both lived through the Industrial Revolution.",
+      "collocations": ["contemporary with", "roughly contemporary"],
+      "synonyms": ["coeval", "simultaneous", "concurrent"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person or thing living or existing at the same time as another",
+      "exampleSentence": "She was highly respected by her contemporaries in the scientific community.",
+      "collocations": ["among one's contemporaries", "respected by contemporaries"],
+      "synonyms": ["peer", "equal", "fellow"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["contemporaneously", "contemporaneous"]
+}
