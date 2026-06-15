@@ -477,6 +477,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "secure",
+    "pronunciation": "/sɪˈkjʊə(r)/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "secure.json"
+  },
+  {
     "word": "setback",
     "pronunciation": "/ˈsɛtbæk/",
     "cefrLevel": "B2",

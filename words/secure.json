@@ -1,0 +1,64 @@
+{
+  "word": "secure",
+  "pronunciation": "/sɪˈkjʊə(r)/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "safe; protected from danger, threat, or loss",
+      "exampleSentence": "Make sure your passport is in a secure place before you travel.",
+      "collocations": ["secure location", "feel secure", "secure connection"],
+      "synonyms": ["safe", "protected", "guarded", "sheltered"],
+      "antonyms": ["vulnerable", "unsafe", "exposed"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "firmly fixed; not likely to move, fall, or come loose",
+      "exampleSentence": "Check that the ladder is secure before you start climbing.",
+      "collocations": ["secure grip", "secure footing", "make secure"],
+      "synonyms": ["firm", "stable", "fastened", "steady"],
+      "antonyms": ["loose", "unstable", "wobbly"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "confident and free from worry or doubt",
+      "exampleSentence": "She felt secure in her decision to change careers after months of careful planning.",
+      "collocations": ["feel secure", "secure about", "emotionally secure"],
+      "synonyms": ["confident", "assured", "certain", "settled"],
+      "antonyms": ["insecure", "anxious", "uncertain"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "secure",
+        "past": "secured",
+        "pastParticiple": "secured",
+        "presentParticiple": "securing",
+        "thirdPersonSingular": "secures"
+      },
+      "definition": "to obtain or achieve something, often after effort",
+      "exampleSentence": "The company secured a major contract with the government.",
+      "collocations": ["secure a deal", "secure funding", "secure a place"],
+      "synonyms": ["obtain", "acquire", "gain", "land"],
+      "antonyms": ["lose", "forfeit", "miss"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "secure",
+        "past": "secured",
+        "pastParticiple": "secured",
+        "presentParticiple": "securing",
+        "thirdPersonSingular": "secures"
+      },
+      "definition": "to fasten or fix firmly; to make safe",
+      "exampleSentence": "Please secure your seatbelt before the vehicle moves.",
+      "collocations": ["secure the door", "secure a rope", "secure to"],
+      "synonyms": ["fasten", "fix", "tie", "lock"],
+      "antonyms": ["unfasten", "release", "loosen"]
+    }
+  ],
+  "wordFamily": ["securely", "security", "insecure", "insecurity"]
+}
