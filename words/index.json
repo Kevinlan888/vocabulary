@@ -66,6 +66,13 @@
     "file": "compartment.json"
   },
   {
+    "word": "conflict",
+    "pronunciation": "/ˈkɒnflɪkt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "conflict.json"
+  },
+  {
     "word": "contraption",
     "pronunciation": "/kənˈtræpʃən/",
     "cefrLevel": "B2",

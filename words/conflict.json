@@ -1,0 +1,32 @@
+{
+  "word": "conflict",
+  "pronunciation": "/ˈkɒnflɪkt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a serious disagreement, argument, or fight; a clash between opposing ideas, interests, groups, or feelings",
+      "exampleSentence": "The conflict between the two neighbours started over a parking space and escalated quickly.",
+      "collocations": ["armed conflict", "conflict resolution", "come into conflict"],
+      "synonyms": ["dispute", "clash", "struggle", "discord"],
+      "antonyms": ["agreement", "harmony", "peace", "accord"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "conflict",
+        "past": "conflicted",
+        "pastParticiple": "conflicted",
+        "presentParticiple": "conflicting",
+        "thirdPersonSingular": "conflicts"
+      },
+      "definition": "to be incompatible or at odds with something; to clash",
+      "exampleSentence": "Her work schedule conflicts with her family commitments, so she's looking for a flexible job.",
+      "collocations": ["conflict with", "conflicting interests", "conflicting advice"],
+      "synonyms": ["clash", "contradict", "disagree"],
+      "antonyms": ["agree", "harmonise", "align"]
+    }
+  ],
+  "wordFamily": ["conflicting", "conflicted", "conflictual"]
+}
