@@ -1,0 +1,16 @@
+{
+  "word": "semantic",
+  "pronunciation": "/sɪˈmæntɪk/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "relating to the meaning of words, phrases, or symbols; concerned with what things mean rather than their form or structure",
+      "exampleSentence": "The two words are semantically similar but cannot be used interchangeably in all contexts.",
+      "collocations": ["semantic meaning", "semantic analysis", "semantic field", "semantic difference"],
+      "synonyms": ["meaning-related", "linguistic", "interpretative", "lexical"],
+      "antonyms": ["syntactic", "structural", "formal"]
+    }
+  ],
+  "wordFamily": ["semantics", "semantically", "semanticist"]
+}

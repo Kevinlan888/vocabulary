@@ -680,6 +680,13 @@
     "file": "secure.json"
   },
   {
+    "word": "semantic",
+    "pronunciation": "/sɪˈmæntɪk/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "semantic.json"
+  },
+  {
     "word": "setback",
     "pronunciation": "/ˈsɛtbæk/",
     "cefrLevel": "B2",
