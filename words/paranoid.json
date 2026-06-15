@@ -1,0 +1,32 @@
+{
+  "word": "paranoid",
+  "pronunciation": "/ˈpærənɔɪd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "having an irrational and excessive mistrust or suspicion of others, believing they are trying to harm you without any real evidence",
+      "exampleSentence": "After the break-in, he became paranoid about home security and installed five cameras.",
+      "collocations": ["paranoid about", "paranoid delusions", "increasingly paranoid"],
+      "synonyms": ["suspicious", "distrustful", "mistrustful", "fearful"],
+      "antonyms": ["trusting", "unsuspecting", "secure"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "excessively anxious or worried about something, often unreasonably (informal)",
+      "exampleSentence": "I'm a bit paranoid about leaving the oven on — I always double-check before going out.",
+      "collocations": ["paranoid about", "slightly paranoid"],
+      "synonyms": ["anxious", "obsessive", "neurotic", "over-cautious"],
+      "antonyms": ["relaxed", "unconcerned", "carefree"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a person who suffers from paranoia or who is excessively suspicious",
+      "exampleSentence": "He's a real paranoid — he thinks everyone at work is plotting against him.",
+      "collocations": ["a real paranoid", "total paranoid"],
+      "synonyms": ["paranoiac"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["paranoia", "paranoiac", "paranoidly"]
+}

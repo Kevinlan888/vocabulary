@@ -1,0 +1,16 @@
+{
+  "word": "excessive",
+  "pronunciation": "/ɪkˈsesɪv/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "more than is necessary, reasonable, or acceptable; too much",
+      "exampleSentence": "The police were criticised for using excessive force during the peaceful protest.",
+      "collocations": ["excessive force", "excessive drinking", "excessive amounts", "excessive use"],
+      "synonyms": ["too much", "disproportionate", "over-the-top", "extreme", "undue", "inordinate"],
+      "antonyms": ["insufficient", "inadequate", "moderate", "reasonable", "minimal"]
+    }
+  ],
+  "wordFamily": ["excessively", "excess", "exceed"]
+}

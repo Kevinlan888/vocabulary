@@ -176,6 +176,13 @@
     "file": "enroll.json"
   },
   {
+    "word": "excessive",
+    "pronunciation": "/ɪkˈsesɪv/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "excessive.json"
+  },
+  {
     "word": "drained",
     "pronunciation": "/dreɪnd/",
     "cefrLevel": "B2",
@@ -377,6 +384,13 @@
     "cefrLevel": "A2",
     "partOfSpeech": ["noun", "verb"],
     "file": "pancake.json"
+  },
+  {
+    "word": "paranoid",
+    "pronunciation": "/ˈpærənɔɪd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "noun"],
+    "file": "paranoid.json"
   },
   {
     "word": "perception",
