@@ -1,0 +1,16 @@
+{
+  "word": "antonym",
+  "pronunciation": "/ˈæntənɪm/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a word that means the opposite of another word",
+      "exampleSentence": "\"Hot\" is the antonym of \"cold\", just as \"happy\" is the antonym of \"sad\".",
+      "collocations": ["antonym of", "find an antonym"],
+      "synonyms": ["opposite"],
+      "antonyms": ["synonym"]
+    }
+  ],
+  "wordFamily": ["antonymous", "antonymy"]
+}

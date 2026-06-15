@@ -1,0 +1,32 @@
+{
+  "word": "fluctuating",
+  "pronunciation": "/ˈflʌktʃueɪtɪŋ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "rising and falling irregularly in number, amount, level, or strength; unstable or changing frequently",
+      "exampleSentence": "The fluctuating exchange rate makes it difficult for businesses to plan their budgets.",
+      "collocations": ["fluctuating prices", "fluctuating temperatures", "fluctuating demand"],
+      "synonyms": ["varying", "unstable", "shifting", "oscillating", "wavering"],
+      "antonyms": ["stable", "steady", "constant", "fixed"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "fluctuate",
+        "past": "fluctuated",
+        "pastParticiple": "fluctuated",
+        "presentParticiple": "fluctuating",
+        "thirdPersonSingular": "fluctuates"
+      },
+      "definition": "present participle of fluctuate — to rise and fall or change irregularly in level, number, or amount",
+      "exampleSentence": "Her weight has been fluctuating between 60 and 65 kilos for the past year.",
+      "collocations": ["fluctuate between", "fluctuate wildly", "fluctuate with"],
+      "synonyms": ["vary", "oscillate", "swing", "waver", "seesaw"],
+      "antonyms": ["stabilise", "hold steady", "remain constant"]
+    }
+  ],
+  "wordFamily": ["fluctuate", "fluctuation"]
+}

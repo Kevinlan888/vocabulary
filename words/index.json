@@ -7,6 +7,13 @@
     "file": "abundant.json"
   },
   {
+    "word": "antonym",
+    "pronunciation": "/ˈæntənɪm/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun"],
+    "file": "antonym.json"
+  },
+  {
     "word": "attribute",
     "pronunciation": {
       "noun": "/ˈætrɪbjuːt/",
@@ -181,6 +188,13 @@
     "cefrLevel": "A2",
     "partOfSpeech": ["verb", "adjective"],
     "file": "flown.json"
+  },
+  {
+    "word": "fluctuating",
+    "pronunciation": "/ˈflʌktʃueɪtɪŋ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "fluctuating.json"
   },
   {
     "word": "figurative",
