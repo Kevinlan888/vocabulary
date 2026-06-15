@@ -59,11 +59,25 @@
     "file": "campsite.json"
   },
   {
+    "word": "clash",
+    "pronunciation": "/klæʃ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "clash.json"
+  },
+  {
     "word": "collar",
     "pronunciation": "/ˈkɒl.ər/",
     "cefrLevel": "B1",
     "partOfSpeech": ["noun", "verb"],
     "file": "collar.json"
+  },
+  {
+    "word": "collision",
+    "pronunciation": "/kəˈlɪʒən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "collision.json"
   },
   {
     "word": "comply",

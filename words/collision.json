@@ -1,0 +1,24 @@
+{
+  "word": "collision",
+  "pronunciation": "/kəˈlɪʒən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an instance of two or more objects hitting each other with force",
+      "exampleSentence": "The two cars were involved in a head-on collision on the icy road.",
+      "collocations": ["head-on collision", "mid-air collision", "avoid a collision", "collision course"],
+      "synonyms": ["crash", "smash", "impact", "accident", "pile-up"],
+      "antonyms": ["avoidance", "evasion"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a strong disagreement or clash between opposing ideas, interests, or principles",
+      "exampleSentence": "The decision put the government on a collision course with environmental campaigners.",
+      "collocations": ["collision course", "collision of interests", "come into collision"],
+      "synonyms": ["conflict", "clash", "confrontation", "discord"],
+      "antonyms": ["agreement", "harmony", "accord"]
+    }
+  ],
+  "wordFamily": ["collide", "collisional"]
+}

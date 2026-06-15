@@ -1,0 +1,48 @@
+{
+  "word": "clash",
+  "pronunciation": "/klæʃ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a violent confrontation or conflict between people or groups",
+      "exampleSentence": "Several people were injured in violent clashes between protesters and police.",
+      "collocations": ["violent clash", "armed clash", "clash with"],
+      "synonyms": ["confrontation", "fight", "battle", "conflict", "skirmish"],
+      "antonyms": ["peace", "truce", "agreement"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a serious disagreement or incompatibility of ideas, opinions, or interests",
+      "exampleSentence": "There was a clash of personalities between the two managers that made teamwork impossible.",
+      "collocations": ["clash of cultures", "clash of personalities", "clash of interests"],
+      "synonyms": ["conflict", "disagreement", "discord", "friction"],
+      "antonyms": ["harmony", "agreement", "accord"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a loud, jarring sound made by metal objects hitting each other",
+      "exampleSentence": "The clash of cymbals marked the climax of the symphony.",
+      "collocations": ["clash of cymbals", "clash of swords", "metallic clash"],
+      "synonyms": ["clang", "crash", "bang", "jangle"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "clash",
+        "past": "clashed",
+        "pastParticiple": "clashed",
+        "presentParticiple": "clashing",
+        "thirdPersonSingular": "clashes"
+      },
+      "definition": "to come into violent conflict; to be incompatible; to make a loud jarring sound",
+      "exampleSentence": "That red tie clashes horribly with your orange shirt.",
+      "collocations": ["clash with", "clash over"],
+      "synonyms": ["fight", "conflict", "disagree", "clang", "crash"],
+      "antonyms": ["harmonise", "agree", "match", "blend"]
+    }
+  ],
+  "wordFamily": ["clashing"]
+}
