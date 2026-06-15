@@ -164,6 +164,13 @@
     "file": "flinch.json"
   },
   {
+    "word": "flown",
+    "pronunciation": "/fləʊn/",
+    "cefrLevel": "A2",
+    "partOfSpeech": ["verb", "adjective"],
+    "file": "flown.json"
+  },
+  {
     "word": "figurative",
     "pronunciation": "/ˈfɪɡərətɪv/",
     "cefrLevel": "B2",

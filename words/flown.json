@@ -1,0 +1,32 @@
+{
+  "word": "flown",
+  "pronunciation": "/fləʊn/",
+  "cefrLevel": "A2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "fly",
+        "past": "flew",
+        "pastParticiple": "flown",
+        "presentParticiple": "flying",
+        "thirdPersonSingular": "flies"
+      },
+      "definition": "past participle of fly — to have moved through the air, travelled by aircraft, or moved swiftly",
+      "exampleSentence": "She has flown to over 30 countries for work in the past five years.",
+      "collocations": ["have flown", "has flown", "never flown before"],
+      "synonyms": ["travelled by air", "soared"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "overly elaborate, pompous, or pretentious in style (especially in the compound 'high-flown')",
+      "exampleSentence": "His high-flown speech about honour impressed no one in the audience.",
+      "collocations": ["high-flown rhetoric", "high-flown language"],
+      "synonyms": ["pompous", "grandiloquent", "pretentious"],
+      "antonyms": ["down-to-earth", "simple", "humble"]
+    }
+  ],
+  "wordFamily": ["fly", "flew", "flying", "flyer"]
+}
