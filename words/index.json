@@ -435,6 +435,13 @@
     "file": "ritual.json"
   },
   {
+    "word": "substantial",
+    "pronunciation": "/səbˈstænʃəl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "substantial.json"
+  },
+  {
     "word": "suffocating",
     "pronunciation": "/ˈsʌfəkeɪtɪŋ/",
     "cefrLevel": "B2",

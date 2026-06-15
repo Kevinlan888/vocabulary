@@ -1,0 +1,32 @@
+{
+  "word": "substantial",
+  "pronunciation": "/səbˈstænʃəl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "large in amount, size, value, or importance; considerable",
+      "exampleSentence": "The company made a substantial profit in the last quarter, exceeding all expectations.",
+      "collocations": ["substantial amount", "substantial sum", "substantial difference"],
+      "synonyms": ["considerable", "significant", "sizeable", "meaningful"],
+      "antonyms": ["insubstantial", "slight", "negligible", "trivial"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "solid, strong, and sturdy in construction or build",
+      "exampleSentence": "The old oak table was substantial enough to survive three generations of family dinners.",
+      "collocations": ["substantial building", "substantial structure"],
+      "synonyms": ["sturdy", "solid", "robust", "hefty"],
+      "antonyms": ["flimsy", "fragile", "rickety"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "real and tangible; having substance rather than being imaginary",
+      "exampleSentence": "The police needed substantial evidence before they could make an arrest.",
+      "collocations": ["substantial evidence", "substantial proof", "substantial grounds"],
+      "synonyms": ["tangible", "concrete", "real", "material"],
+      "antonyms": ["imaginary", "intangible", "groundless"]
+    }
+  ],
+  "wordFamily": ["substantially", "substance", "substantiate", "insubstantial"]
+}
