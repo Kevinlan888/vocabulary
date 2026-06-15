@@ -1,0 +1,16 @@
+{
+  "word": "resentment",
+  "pronunciation": "/rɪˈzentmənt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a bitter feeling of anger or displeasure caused by the belief that one has been treated unfairly",
+      "exampleSentence": "Years of being overlooked for promotion had built up deep resentment among the staff.",
+      "collocations": ["harbour resentment", "feel resentment", "deep resentment", "bitter resentment", "growing resentment"],
+      "synonyms": ["bitterness", "indignation", "grudge", "rancour", "ill will"],
+      "antonyms": ["contentment", "satisfaction", "forgiveness", "goodwill"]
+    }
+  ],
+  "wordFamily": ["resent", "resentful", "resentfully"]
+}

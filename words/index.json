@@ -421,6 +421,13 @@
     "file": "resemble.json"
   },
   {
+    "word": "resentment",
+    "pronunciation": "/rɪˈzentmənt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "resentment.json"
+  },
+  {
     "word": "nostalgic",
     "pronunciation": "/nɒˈstældʒɪk/",
     "cefrLevel": "B2",
