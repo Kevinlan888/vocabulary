@@ -1,0 +1,24 @@
+{
+  "word": "razzle",
+  "pronunciation": "/ˈræzəl/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "in the phrase 'on the razzle' — going out to drink and party wildly (British informal)",
+      "exampleSentence": "It's his birthday on Friday, so the lads are going out on the razzle.",
+      "collocations": ["go on the razzle", "a night on the razzle", "out on the razzle"],
+      "synonyms": ["on a bender", "out partying", "on the town", "painting the town red"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "in 'razzle-dazzle' — a showy, exciting, or confusing display designed to impress or distract",
+      "exampleSentence": "The marketing campaign was all razzle-dazzle with very little substance behind it.",
+      "collocations": ["razzle-dazzle", "all razzle-dazzle"],
+      "synonyms": ["showmanship", "spectacle", "razzmatazz", "glitz", "fanfare"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["razzle-dazzle", "razzmatazz"]
+}

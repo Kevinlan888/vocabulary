@@ -547,6 +547,13 @@
     "file": "profile.json"
   },
   {
+    "word": "razzle",
+    "pronunciation": "/ˈræzəl/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "razzle.json"
+  },
+  {
     "word": "recognise",
     "pronunciation": "/ˈrekəɡnaɪz/",
     "cefrLevel": "B1",
