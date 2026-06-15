@@ -1,0 +1,64 @@
+{
+  "word": "drone",
+  "pronunciation": "/drəʊn/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an unmanned aircraft or ship guided remotely or autonomously",
+      "exampleSentence": "The drone captured stunning aerial footage of the coastline.",
+      "collocations": ["launch a drone", "drone strike", "drone footage"],
+      "synonyms": ["UAV", "unmanned aircraft", "quadcopter"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a male bee that has no sting, does no work, and exists solely to mate with the queen",
+      "exampleSentence": "The worker bees eventually drive the drones out of the hive before winter.",
+      "collocations": ["drone bee", "drone cell", "drone brood"],
+      "synonyms": ["male bee"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a continuous low humming or buzzing sound",
+      "exampleSentence": "The steady drone of the engine put me to sleep on the long drive.",
+      "collocations": ["the drone of traffic", "the drone of machinery", "a distant drone"],
+      "synonyms": ["hum", "buzz", "whir"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "drone",
+        "past": "droned",
+        "pastParticiple": "droned",
+        "presentParticiple": "droning",
+        "thirdPersonSingular": "drones"
+      },
+      "definition": "to make a continuous low humming sound",
+      "exampleSentence": "A lawnmower droned somewhere in the distance.",
+      "collocations": ["drone on", "drone away", "drone in the background"],
+      "synonyms": ["hum", "buzz", "whir"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "drone",
+        "past": "droned",
+        "pastParticiple": "droned",
+        "presentParticiple": "droning",
+        "thirdPersonSingular": "drones"
+      },
+      "definition": "to speak in a monotonous, tedious tone",
+      "exampleSentence": "The professor droned on for two hours about medieval tax records.",
+      "collocations": ["drone on and on", "drone endlessly"],
+      "synonyms": ["monotone", "intone", "ramble"],
+      "antonyms": ["enthuse", "animate"]
+    }
+  ],
+  "wordFamily": ["droning", "droningly"]
+}

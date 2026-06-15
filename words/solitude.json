@@ -1,0 +1,16 @@
+{
+  "word": "solitude",
+  "pronunciation": "/ˈsɒlɪtjuːd/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the state of being alone, especially when this is chosen deliberately and is peaceful or enjoyable",
+      "exampleSentence": "After a busy week of meetings, she found real comfort in the solitude of her garden.",
+      "collocations": ["seek solitude", "live in solitude", "peaceful solitude"],
+      "synonyms": ["seclusion", "isolation", "aloneness", "privacy"],
+      "antonyms": ["company", "companionship", "society", "crowds"]
+    }
+  ],
+  "wordFamily": ["solitary", "solitarily", "solitariness"]
+}

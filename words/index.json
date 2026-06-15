@@ -115,6 +115,13 @@
     "file": "drawback.json"
   },
   {
+    "word": "drone",
+    "pronunciation": "/drəʊn/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "drone.json"
+  },
+  {
     "word": "fair",
     "pronunciation": "/feə(r)/",
     "cefrLevel": "B1",
@@ -421,6 +428,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["noun"],
     "file": "setback.json"
+  },
+  {
+    "word": "solitude",
+    "pronunciation": "/ˈsɒlɪtjuːd/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "solitude.json"
   },
   {
     "word": "stall",
