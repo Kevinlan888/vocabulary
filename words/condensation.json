@@ -1,0 +1,32 @@
+{
+  "word": "condensation",
+  "pronunciation": "/ˌkɒndenˈseɪʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "water droplets that form on a cold surface when warm, moist air comes into contact with it",
+      "exampleSentence": "There was so much condensation on the bathroom mirror after my shower that I couldn't see my reflection.",
+      "collocations": ["condensation on the windows", "heavy condensation", "wipe away condensation"],
+      "synonyms": ["moisture", "dew", "steam"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the physical process of changing from a gas or vapour into a liquid",
+      "exampleSentence": "Condensation occurs when water vapour in the air cools and turns back into liquid water.",
+      "collocations": ["process of condensation", "condensation point"],
+      "synonyms": ["liquefaction", "precipitation"],
+      "antonyms": ["evaporation", "vaporisation"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a shortened version of something; a summary capturing the main points in fewer words",
+      "exampleSentence": "This report is a condensation of the original 500-page study.",
+      "collocations": ["a condensation of"],
+      "synonyms": ["summary", "abridgement", "digest", "précis"],
+      "antonyms": ["expansion", "elaboration"]
+    }
+  ],
+  "wordFamily": ["condense", "condensed", "condenser"]
+}

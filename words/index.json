@@ -85,6 +85,13 @@
     "partOfSpeech": ["noun"],
     "file": "compensation.json"
   },
+  {
+    "word": "condensation",
+    "pronunciation": "/ˌkɒndenˈseɪʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "condensation.json"
+  },
   {    "word": "conflict",
     "pronunciation": "/ˈkɒnflɪkt/",
     "cefrLevel": "B2",
