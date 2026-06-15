@@ -1,0 +1,16 @@
+{
+  "word": "cookery",
+  "pronunciation": "/ˈkʊkəri/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the art, practice, or skill of preparing and cooking food (chiefly British English)",
+      "exampleSentence": "She enrolled in a cookery course to improve her skills in the kitchen.",
+      "collocations": ["cookery class", "cookery book", "cookery school"],
+      "synonyms": ["cooking", "cuisine", "culinary art"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["cook", "cooker", "cooking"]
+}

@@ -73,6 +73,13 @@
     "file": "contraption.json"
   },
   {
+    "word": "cookery",
+    "pronunciation": "/ˈkʊkəri/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun"],
+    "file": "cookery.json"
+  },
+  {
     "word": "disparate",
     "pronunciation": "/ˈdɪspərət/",
     "cefrLevel": "C1",
