@@ -1,0 +1,48 @@
+{
+  "word": "plaster",
+  "pronunciation": "/ˈplɑːstə(r)/",
+  "cefrLevel": "B1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a soft mixture of lime or gypsum with sand and water that hardens as it dries, used for coating walls and ceilings",
+      "exampleSentence": "The old cottage had thick stone walls covered in lime plaster.",
+      "collocations": ["apply plaster", "lime plaster", "plaster walls"],
+      "synonyms": ["render", "stucco", "mortar"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a small adhesive bandage for covering minor cuts and wounds (British English; US: band-aid)",
+      "exampleSentence": "She put a plaster on her finger after cutting it while chopping vegetables.",
+      "collocations": ["sticking plaster", "put on a plaster"],
+      "synonyms": ["bandage", "band-aid", "dressing"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "plaster of Paris — a white powder that sets hard when mixed with water, used for making casts and moulds",
+      "exampleSentence": "His broken arm was put in a plaster cast for six weeks.",
+      "collocations": ["plaster cast", "in plaster"],
+      "synonyms": ["cast", "gypsum"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "plaster",
+        "past": "plastered",
+        "pastParticiple": "plastered",
+        "presentParticiple": "plastering",
+        "thirdPersonSingular": "plasters"
+      },
+      "definition": "to cover a surface with plaster; to cover something thickly or liberally with a substance; to stick things all over a surface",
+      "exampleSentence": "The walls of his bedroom were plastered with posters of rock bands.",
+      "collocations": ["plaster with", "plaster over", "plastered with posters"],
+      "synonyms": ["coat", "cover", "smear", "daub"],
+      "antonyms": ["strip", "uncover"]
+    }
+  ],
+  "wordFamily": ["plasterer", "plastering", "plastered"]
+}

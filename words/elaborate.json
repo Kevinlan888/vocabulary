@@ -1,0 +1,32 @@
+{
+  "word": "elaborate",
+  "pronunciation": "/ɪˈlæbərət/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "involving many carefully arranged parts or details; complicated, intricate, or highly detailed",
+      "exampleSentence": "The palace was decorated with elaborate gold carvings and hand-painted frescoes.",
+      "collocations": ["elaborate design", "elaborate plan", "elaborate system"],
+      "synonyms": ["intricate", "complex", "detailed", "ornate", "sophisticated"],
+      "antonyms": ["simple", "plain", "basic", "straightforward"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "both",
+      "verbForms": {
+        "base": "elaborate",
+        "past": "elaborated",
+        "pastParticiple": "elaborated",
+        "presentParticiple": "elaborating",
+        "thirdPersonSingular": "elaborates"
+      },
+      "definition": "to explain or describe something in more detail; to add more information",
+      "exampleSentence": "Could you elaborate on your proposal? I'd like to understand the costs involved.",
+      "collocations": ["elaborate on a point", "elaborate further", "refuse to elaborate"],
+      "synonyms": ["explain", "expand on", "flesh out", "develop", "clarify"],
+      "antonyms": ["summarise", "simplify", "condense", "abbreviate"]
+    }
+  ],
+  "wordFamily": ["elaboration", "elaborately", "elaborateness"]
+}

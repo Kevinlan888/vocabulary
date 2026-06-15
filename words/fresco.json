@@ -1,0 +1,16 @@
+{
+  "word": "fresco",
+  "pronunciation": "/ˈfreskəʊ/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a painting made on a wall or ceiling while the plaster is still wet, so that the colours become part of the plaster as it dries",
+      "exampleSentence": "The Sistine Chapel is famous for Michelangelo's breathtaking frescoes on its ceiling.",
+      "collocations": ["paint a fresco", "ceiling frescoes", "Renaissance frescoes"],
+      "synonyms": ["mural", "wall painting"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["frescoed"]
+}

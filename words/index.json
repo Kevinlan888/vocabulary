@@ -127,6 +127,13 @@
     "file": "distinct.json"
   },
   {
+    "word": "elaborate",
+    "pronunciation": "/ɪˈlæbərət/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "verb"],
+    "file": "elaborate.json"
+  },
+  {
     "word": "enigma",
     "pronunciation": "/ɪˈnɪɡmə/",
     "cefrLevel": "C1",
@@ -195,6 +202,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["adjective", "verb"],
     "file": "fluctuating.json"
+  },
+  {
+    "word": "fresco",
+    "pronunciation": "/ˈfreskəʊ/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "fresco.json"
   },
   {
     "word": "figurative",
@@ -384,6 +398,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["noun"],
     "file": "plaque.json"
+  },
+  {
+    "word": "plaster",
+    "pronunciation": "/ˈplɑːstə(r)/",
+    "cefrLevel": "B1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "plaster.json"
   },
   {
     "word": "potter",
