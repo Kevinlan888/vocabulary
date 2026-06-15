@@ -120,6 +120,13 @@
     "file": "deceive.json"
   },
   {
+    "word": "delusional",
+    "pronunciation": "/dɪˈluːʒənəl/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "delusional.json"
+  },
+  {
     "word": "disparate",
     "pronunciation": "/ˈdɪspərət/",
     "cefrLevel": "C1",
@@ -720,6 +727,13 @@
     "cefrLevel": "C2",
     "partOfSpeech": ["noun"],
     "file": "cline.json"
+  },
+  {
+    "word": "clinical",
+    "pronunciation": "/ˈklɪnɪkəl/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective"],
+    "file": "clinical.json"
   },
   {
     "word": "undergo",

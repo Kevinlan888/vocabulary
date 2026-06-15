@@ -1,0 +1,16 @@
+{
+  "word": "delusional",
+  "pronunciation": "/dɪˈluːʒənəl/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "having false or unrealistic beliefs, opinions, or ideas, often despite clear evidence to the contrary; suffering from or characterised by delusions",
+      "exampleSentence": "He's completely delusional if he thinks he can finish the project in one week with no help.",
+      "collocations": ["completely delusional", "delusional thinking", "delusional belief", "clinically delusional"],
+      "synonyms": ["unrealistic", "irrational", "out of touch", "self-deceived", "fantasising"],
+      "antonyms": ["realistic", "rational", "grounded", "clear-headed", "sane"]
+    }
+  ],
+  "wordFamily": ["delusion", "delude", "deluded", "delusively"]
+}

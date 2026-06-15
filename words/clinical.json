@@ -1,0 +1,32 @@
+{
+  "word": "clinical",
+  "pronunciation": "/ˈklɪnɪkəl/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "relating to the observation and treatment of actual patients rather than theoretical or laboratory studies",
+      "exampleSentence": "The drug is still undergoing clinical trials before it can be approved for public use.",
+      "collocations": ["clinical trial", "clinical practice", "clinical diagnosis", "clinical setting"],
+      "synonyms": ["medical", "therapeutic", "healthcare-related"],
+      "antonyms": ["theoretical", "non-clinical"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "efficient, rational, and unemotional; coldly detached or analytic",
+      "exampleSentence": "He described the accident with clinical precision, showing no emotion whatsoever.",
+      "collocations": ["clinical precision", "clinical detachment", "clinical efficiency"],
+      "synonyms": ["detached", "unemotional", "impersonal", "cold", "objective"],
+      "antonyms": ["emotional", "sentimental", "passionate", "warm"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "very clean and plain, having the sterile appearance of a hospital or clinic",
+      "exampleSentence": "The apartment was decorated in a clinical white that felt more like a laboratory than a home.",
+      "collocations": ["clinical white", "clinical atmosphere", "clinically clean"],
+      "synonyms": ["sterile", "stark", "austere", "impersonal", "institutional"],
+      "antonyms": ["cosy", "warm", "homely", "inviting"]
+    }
+  ],
+  "wordFamily": ["clinically", "clinic", "clinician"]
+}
