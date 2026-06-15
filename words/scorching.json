@@ -1,0 +1,32 @@
+{
+  "word": "scorching",
+  "pronunciation": "/ˈskɔːtʃɪŋ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "very hot; burning",
+      "exampleSentence": "We walked across the desert under the scorching sun for over three hours.",
+      "collocations": ["scorching heat", "scorching sun", "scorching hot"],
+      "synonyms": ["blazing", "burning", "roasting", "searing", "sweltering", "boiling"],
+      "antonyms": ["freezing", "icy", "chilly", "cold", "frigid"]
+    },
+    {
+      "partOfSpeech": "adjective",
+      "definition": "harshly critical or damaging (figurative)",
+      "exampleSentence": "The newspaper published a scorching critique of the government's handling of the crisis.",
+      "collocations": ["scorching criticism", "scorching attack", "scorching review"],
+      "synonyms": ["blistering", "scathing", "devastating", "fierce"],
+      "antonyms": ["mild", "gentle", "complimentary"]
+    },
+    {
+      "partOfSpeech": "adverb",
+      "definition": "extremely (with temperatures); very (informal)",
+      "exampleSentence": "It was scorching hot outside — over 40 degrees in the shade.",
+      "collocations": ["scorching hot"],
+      "synonyms": ["extremely", "intensely", "terribly"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["scorch", "scorcher", "scorchingly"]
+}

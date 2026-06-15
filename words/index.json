@@ -680,6 +680,13 @@
     "file": "scoff.json"
   },
   {
+    "word": "scorching",
+    "pronunciation": "/ˈskɔːtʃɪŋ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "adverb"],
+    "file": "scorching.json"
+  },
+  {
     "word": "secure",
     "pronunciation": "/sɪˈkjʊə(r)/",
     "cefrLevel": "B1",
