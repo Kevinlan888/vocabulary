@@ -386,6 +386,13 @@
     "file": "reintroduction.json"
   },
   {
+    "word": "reparation",
+    "pronunciation": "/ˌrepəˈreɪʃən/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun"],
+    "file": "reparation.json"
+  },
+  {
     "word": "puberty",
     "pronunciation": "/ˈpjuːbərti/",
     "cefrLevel": "B2",

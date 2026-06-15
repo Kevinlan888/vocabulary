@@ -1,0 +1,24 @@
+{
+  "word": "reparation",
+  "pronunciation": "/ˌrepəˈreɪʃən/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of making amends for a wrong, injury, or harm done, typically through payment or assistance",
+      "exampleSentence": "The company made full reparation to the families affected by the chemical spill.",
+      "collocations": ["make reparation", "in reparation for", "full reparation"],
+      "synonyms": ["compensation", "amends", "restitution", "redress", "atonement"],
+      "antonyms": ["injury", "harm", "wrongdoing"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "compensation payments made by a defeated country for war damage or suffering caused (usually plural: reparations)",
+      "exampleSentence": "After the war, the treaty required the defeated nation to pay heavy reparations to its neighbours.",
+      "collocations": ["war reparations", "pay reparations", "demand reparations"],
+      "synonyms": ["war compensation", "indemnity", "damages"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["repair", "reparable", "reparative"]
+}
