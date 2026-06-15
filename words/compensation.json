@@ -1,0 +1,24 @@
+{
+  "word": "compensation",
+  "pronunciation": "/ˌkɒmpenˈseɪʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "money or benefits given to someone in exchange for work, or as reparation for loss, injury, or suffering",
+      "exampleSentence": "After the accident, she received substantial compensation for her injuries and lost wages.",
+      "collocations": ["financial compensation", "claim compensation", "compensation package"],
+      "synonyms": ["payment", "recompense", "remuneration", "damages"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "something that offsets or makes up for a weakness, disadvantage, or undesirable situation",
+      "exampleSentence": "His natural charm was more than adequate compensation for his lack of formal education.",
+      "collocations": ["in compensation", "as compensation for", "more than compensation"],
+      "synonyms": ["offset", "counterbalance", "redress"],
+      "antonyms": ["loss", "deprivation"]
+    }
+  ],
+  "wordFamily": ["compensate", "compensatory", "compensable"]
+}

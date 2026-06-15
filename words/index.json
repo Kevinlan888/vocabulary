@@ -65,8 +65,13 @@
     "partOfSpeech": ["noun"],
     "file": "compartment.json"
   },
-  {
-    "word": "conflict",
+  {    "word": "compensation",
+    "pronunciation": "/ˌkɒmpenˈseɪʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "compensation.json"
+  },
+  {    "word": "conflict",
     "pronunciation": "/ˈkɒnflɪkt/",
     "cefrLevel": "B2",
     "partOfSpeech": ["noun", "verb"],
