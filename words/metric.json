@@ -1,0 +1,32 @@
+{
+  "word": "metric",
+  "pronunciation": "/ˈmetrɪk/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "relating to or based on the metric system of measurement (using metres, grams, litres, etc.)",
+      "exampleSentence": "Most countries use the metric system, but the US still uses imperial units like miles and pounds.",
+      "collocations": ["metric system", "metric units", "metric tonne"],
+      "synonyms": [],
+      "antonyms": ["imperial"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a standard of measurement; a specific way of measuring or evaluating something, especially performance or success",
+      "exampleSentence": "The company tracks several key metrics, including customer satisfaction and monthly revenue.",
+      "collocations": ["key metric", "performance metric", "financial metric", "track a metric"],
+      "synonyms": ["measure", "indicator", "gauge", "benchmark", "criterion"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a mathematical function that defines a distance between two points in a space (technical)",
+      "exampleSentence": "In Euclidean geometry, the distance between two points is calculated using a simple metric.",
+      "collocations": [],
+      "synonyms": [],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["metrical", "metricate", "metrication"]
+}

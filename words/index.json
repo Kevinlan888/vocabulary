@@ -407,6 +407,13 @@
     "file": "medium.json"
   },
   {
+    "word": "metric",
+    "pronunciation": "/ˈmetrɪk/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["adjective", "noun"],
+    "file": "metric.json"
+  },
+  {
     "word": "neglect",
     "pronunciation": "/nɪˈɡlɛkt/",
     "cefrLevel": "B2",
