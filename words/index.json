@@ -113,6 +113,13 @@
     "file": "cookery.json"
   },
   {
+    "word": "deceive",
+    "pronunciation": "/dɪˈsiːv/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["verb"],
+    "file": "deceive.json"
+  },
+  {
     "word": "disparate",
     "pronunciation": "/ˈdɪspərət/",
     "cefrLevel": "C1",

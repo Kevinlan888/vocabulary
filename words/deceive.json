@@ -1,0 +1,24 @@
+{
+  "word": "deceive",
+  "pronunciation": "/dɪˈsiːv/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "deceive",
+        "past": "deceived",
+        "pastParticiple": "deceived",
+        "presentParticiple": "deceiving",
+        "thirdPersonSingular": "deceives"
+      },
+      "definition": "to make someone believe something that is not true; to trick or mislead someone deliberately",
+      "exampleSentence": "He tried to deceive investors into believing the company was profitable, when in fact it was losing millions.",
+      "collocations": ["deceive someone into doing something", "deceive the public", "deliberately deceive", "be deceived by appearances"],
+      "synonyms": ["trick", "mislead", "fool", "cheat", "dupe", "con"],
+      "antonyms": ["be honest with", "tell the truth", "enlighten", "undeceive"]
+    }
+  ],
+  "wordFamily": ["deception", "deceit", "deceptive", "deceiver"]
+}
