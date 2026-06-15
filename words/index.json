@@ -176,6 +176,13 @@
     "file": "distinct.json"
   },
   {
+    "word": "diversion",
+    "pronunciation": "/daɪˈvɜːʃən/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "diversion.json"
+  },
+  {
     "word": "elaborate",
     "pronunciation": "/ɪˈlæbərət/",
     "cefrLevel": "B2",

@@ -1,0 +1,32 @@
+{
+  "word": "diversion",
+  "pronunciation": "/daɪˈvɜːʃən/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a change of route or direction, especially an official detour for traffic",
+      "exampleSentence": "There's a diversion in place due to roadworks on the bridge — follow the yellow signs.",
+      "collocations": ["traffic diversion", "diversion route", "put a diversion in place"],
+      "synonyms": ["detour", "rerouting", "bypass", "deviation"],
+      "antonyms": ["direct route"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "something that takes attention away from something else; a distraction or tactic to divert focus",
+      "exampleSentence": "The press release was just a diversion to draw attention away from the scandal.",
+      "collocations": ["create a diversion", "a welcome diversion"],
+      "synonyms": ["distraction", "decoy", "red herring", "smokescreen"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "an enjoyable activity that amuses or entertains; a pastime",
+      "exampleSentence": "For him, reading detective novels was a pleasant diversion from the stresses of work.",
+      "collocations": ["a pleasant diversion", "a welcome diversion", "a harmless diversion"],
+      "synonyms": ["pastime", "amusement", "entertainment", "recreation", "hobby"],
+      "antonyms": ["work", "drudgery", "chore"]
+    }
+  ],
+  "wordFamily": ["divert", "diversionary", "diverse"]
+}
