@@ -442,6 +442,13 @@
     "file": "resentment.json"
   },
   {
+    "word": "resort",
+    "pronunciation": "/rɪˈzɔːt/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "resort.json"
+  },
+  {
     "word": "nostalgic",
     "pronunciation": "/nɒˈstældʒɪk/",
     "cefrLevel": "B2",

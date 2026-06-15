@@ -1,0 +1,40 @@
+{
+  "word": "resort",
+  "pronunciation": "/rɪˈzɔːt/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a place frequented for holidays, recreation, or a particular purpose",
+      "exampleSentence": "They spent their honeymoon at a luxury beach resort in the Maldives.",
+      "collocations": ["holiday resort", "ski resort", "beach resort", "seaside resort"],
+      "synonyms": ["holiday destination", "retreat", "getaway", "spa"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "the act of turning to something as a course of action, especially when other options have failed",
+      "exampleSentence": "The company only uses layoffs as a last resort when all other cost-cutting measures have been tried.",
+      "collocations": ["as a last resort", "as a first resort", "without resort to"],
+      "synonyms": ["recourse", "expedient", "option"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "resort",
+        "past": "resorted",
+        "pastParticiple": "resorted",
+        "presentParticiple": "resorting",
+        "thirdPersonSingular": "resorts"
+      },
+      "definition": "to turn to something as a solution, especially something undesirable, because no better option exists",
+      "exampleSentence": "When negotiations failed, the union resorted to strike action.",
+      "collocations": ["resort to violence", "resort to cheating", "resort to drastic measures"],
+      "synonyms": ["turn to", "fall back on", "stoop to", "have recourse to"],
+      "antonyms": ["avoid", "refrain from"]
+    }
+  ],
+  "wordFamily": []
+}
