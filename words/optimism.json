@@ -1,0 +1,16 @@
+{
+  "word": "optimism",
+  "pronunciation": "/ˈɒptɪmɪzəm/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a feeling of hopefulness and confidence about the future or about the success of something; the tendency to expect the best possible outcome",
+      "exampleSentence": "Despite the economic downturn, there is a cautious optimism among investors that the market will recover soon.",
+      "collocations": ["cautious optimism", "renewed optimism", "a sense of optimism", "full of optimism", "grounds for optimism"],
+      "synonyms": ["hopefulness", "confidence", "positivity", "cheerfulness", "sanguineness"],
+      "antonyms": ["pessimism", "cynicism", "negativity", "despair", "gloom"]
+    }
+  ],
+  "wordFamily": ["optimist", "optimistic", "optimistically"]
+}

@@ -400,6 +400,13 @@
     "file": "perception.json"
   },
   {
+    "word": "pervasive",
+    "pronunciation": "/pəˈveɪsɪv/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["adjective"],
+    "file": "pervasive.json"
+  },
+  {
     "word": "precipitation",
     "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
     "cefrLevel": "B2",
@@ -412,6 +419,13 @@
     "cefrLevel": "C1",
     "partOfSpeech": ["adjective"],
     "file": "oppressive.json"
+  },
+  {
+    "word": "optimism",
+    "pronunciation": "/ˈɒptɪmɪzəm/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun"],
+    "file": "optimism.json"
   },
   {
     "word": "organisation",

@@ -1,0 +1,16 @@
+{
+  "word": "pervasive",
+  "pronunciation": "/pəˈveɪsɪv/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "adjective",
+      "definition": "spreading widely throughout an area, group, or system; present and noticeable in every part of something",
+      "exampleSentence": "There is a pervasive sense of optimism in the company following the successful product launch.",
+      "collocations": ["pervasive influence", "pervasive problem", "pervasive culture", "pervasive feeling", "pervasive smell"],
+      "synonyms": ["widespread", "ubiquitous", "prevalent", "all-pervading", "omnipresent", "rife"],
+      "antonyms": ["rare", "scarce", "limited", "confined", "localised"]
+    }
+  ],
+  "wordFamily": ["pervade", "pervasively", "pervasiveness", "pervasion"]
+}
