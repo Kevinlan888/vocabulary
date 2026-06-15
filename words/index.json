@@ -38,6 +38,13 @@
     "file": "bravery.json"
   },
   {
+    "word": "breach",
+    "pronunciation": "/briːtʃ/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "breach.json"
+  },
+  {
     "word": "breed",
     "pronunciation": "/briːd/",
     "cefrLevel": "B2",
@@ -622,6 +629,13 @@
     "cefrLevel": "B2",
     "partOfSpeech": ["noun", "verb"],
     "file": "transfer.json"
+  },
+  {
+    "word": "transpire",
+    "pronunciation": "/trænˈspaɪə(r)/",
+    "cefrLevel": "C1",
+    "partOfSpeech": ["verb"],
+    "file": "transpire.json"
   },
   {
     "word": "transmit",

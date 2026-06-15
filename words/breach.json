@@ -1,0 +1,56 @@
+{
+  "word": "breach",
+  "pronunciation": "/briːtʃ/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "an act of breaking or failing to observe a law, agreement, promise, or code of conduct",
+      "exampleSentence": "The company was sued for breach of contract after failing to deliver the goods on time.",
+      "collocations": ["breach of contract", "breach of trust", "breach of security", "data breach"],
+      "synonyms": ["violation", "infringement", "breaking", "transgression"],
+      "antonyms": ["compliance", "observance", "fulfilment"]
+    },
+    {
+      "partOfSpeech": "noun",
+      "definition": "a gap in a wall, barrier, or defence, especially one made by an attacking force",
+      "exampleSentence": "The defenders rushed to repair the breach in the castle wall before another assault.",
+      "collocations": ["breach in the wall", "breach the defences"],
+      "synonyms": ["gap", "opening", "break", "rupture"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "breach",
+        "past": "breached",
+        "pastParticiple": "breached",
+        "presentParticiple": "breaching",
+        "thirdPersonSingular": "breaches"
+      },
+      "definition": "to break through or break a rule, agreement, or barrier",
+      "exampleSentence": "The hackers managed to breach the company's security systems.",
+      "collocations": ["breach security", "breach a contract", "breach the defences"],
+      "synonyms": ["break", "violate", "infringe", "penetrate"],
+      "antonyms": ["comply with", "honour", "observe"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "breach",
+        "past": "breached",
+        "pastParticiple": "breached",
+        "presentParticiple": "breaching",
+        "thirdPersonSingular": "breaches"
+      },
+      "definition": "to rise and break through the surface of the water (of a whale)",
+      "exampleSentence": "We watched in awe as a humpback whale breached right beside our boat.",
+      "collocations": ["breach the surface"],
+      "synonyms": ["surface", "leap", "break"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["breachable"]
+}

@@ -1,0 +1,56 @@
+{
+  "word": "transpire",
+  "pronunciation": "/trænˈspaɪə(r)/",
+  "cefrLevel": "C1",
+  "entries": [
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "transpire",
+        "past": "transpired",
+        "pastParticiple": "transpired",
+        "presentParticiple": "transpiring",
+        "thirdPersonSingular": "transpires"
+      },
+      "definition": "to happen; to occur; to take place (slightly formal)",
+      "exampleSentence": "Nobody knows exactly what transpired during the closed-door meeting.",
+      "collocations": ["what transpired", "it transpired that", "as events transpire"],
+      "synonyms": ["happen", "occur", "take place", "come about"],
+      "antonyms": []
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "transpire",
+        "past": "transpired",
+        "pastParticiple": "transpired",
+        "presentParticiple": "transpiring",
+        "thirdPersonSingular": "transpires"
+      },
+      "definition": "to become known; to come to light, especially of secret or previously hidden information",
+      "exampleSentence": "It later transpired that the CEO had known about the security breach for months.",
+      "collocations": ["it transpired that", "later transpired"],
+      "synonyms": ["come to light", "emerge", "be revealed", "surface"],
+      "antonyms": ["remain hidden", "stay secret"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "intransitive",
+      "verbForms": {
+        "base": "transpire",
+        "past": "transpired",
+        "pastParticiple": "transpired",
+        "presentParticiple": "transpiring",
+        "thirdPersonSingular": "transpires"
+      },
+      "definition": "to give off water vapour through pores in leaves or through the skin (technical/biology)",
+      "exampleSentence": "Plants transpire more rapidly in hot, dry conditions.",
+      "collocations": ["plants transpire", "transpire moisture"],
+      "synonyms": ["perspire", "evaporate", "exude"],
+      "antonyms": []
+    }
+  ],
+  "wordFamily": ["transpiration"]
+}
