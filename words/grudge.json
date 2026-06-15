@@ -1,0 +1,32 @@
+{
+  "word": "grudge",
+  "pronunciation": "/ɡrʌdʒ/",
+  "cefrLevel": "B2",
+  "entries": [
+    {
+      "partOfSpeech": "noun",
+      "definition": "a persistent feeling of resentment or ill will towards someone, resulting from a past insult, injury, or wrong",
+      "exampleSentence": "He's held a grudge against his brother for years over a minor argument at Christmas.",
+      "collocations": ["hold a grudge", "bear a grudge", "nurse a grudge", "harbour a grudge", "have a grudge against"],
+      "synonyms": ["resentment", "bitterness", "grievance", "rancour", "ill will"],
+      "antonyms": ["forgiveness", "goodwill", "reconciliation"]
+    },
+    {
+      "partOfSpeech": "verb",
+      "transitivity": "transitive",
+      "verbForms": {
+        "base": "grudge",
+        "past": "grudged",
+        "pastParticiple": "grudged",
+        "presentParticiple": "grudging",
+        "thirdPersonSingular": "grudges"
+      },
+      "definition": "to be unwilling to give, grant, or allow something; to resent having to do something",
+      "exampleSentence": "I don't grudge him his success — he's worked incredibly hard for it.",
+      "collocations": ["grudge someone something", "not grudge"],
+      "synonyms": ["begrudge", "resent", "envy"],
+      "antonyms": ["give willingly", "grant freely"]
+    }
+  ],
+  "wordFamily": ["grudging", "grudgingly", "begrudge"]
+}

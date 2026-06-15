@@ -274,6 +274,13 @@
     "file": "gradual.json"
   },
   {
+    "word": "grudge",
+    "pronunciation": "/ɡrʌdʒ/",
+    "cefrLevel": "B2",
+    "partOfSpeech": ["noun", "verb"],
+    "file": "grudge.json"
+  },
+  {
     "word": "harbour",
     "pronunciation": "/ˈhɑːbə(r)/",
     "cefrLevel": "B2",
